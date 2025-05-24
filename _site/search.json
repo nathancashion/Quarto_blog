@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 13, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 10, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\n4 Tips for Improving Telehealth Patient-Clinician Communication\n\n\n\n\n\n\nTech\n\n\nResearch\n\n\n\n\n\n\n\n\n\nOct 13, 2024\n\n\nNathan Cashion\n\n\n\n\n\n\n\n\n\n\n\n\nAdvancing Telemedicine in Musculoskeletal Practice\n\n\n\n\n\n\nthesis\n\n\nacademic\n\n\n\nTelemedicine has rapidly emerged as a promising approach to managing back, neck, and other musculoskeletal (MSK) pain. Despite impressive advances in the technology, clinicians and patients remain reluctant to adopt it. The transition to telemedicine from hands-on, in-person care presents numerous barriers. In contrast, new technologies and tools are readily embraced by early-adopters in other industries, such as video game streaming, fitness influencers, and YouTube content creators. By adopting tools and techniques from these other industries, MSK providers may be able to increase in-session engagement and patient satisfaction with telemedicine. \n\n\n\n\n\nJul 8, 2024\n\n\nNathan Cashion\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n2"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -28,11 +7,11 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/advancing-msk-telemedicine/advancing-msk-telemedicine.html",
-    "href": "posts/advancing-msk-telemedicine/advancing-msk-telemedicine.html",
-    "title": "Advancing Musculoskeletal Telemedicine",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Advancing Telemedicine in Musculoskeletal Practice\n\nWhat can telemedicine providers learn from live streamers?\n\n\nAbstract\nTelemedicine has rapidly emerged as a promising approach to managing back, neck, and other musculoskeletal (MSK) pain. Despite impressive advances in the technology, clinicians and patients remain reluctant to adopt it. The transition to telemedicine from hands-on, in-person care presents numerous barriers. In contrast, new technologies and tools are readily embraced by early-adopters in other industries, such as video game streaming, fitness influencers, and YouTube content creators. By adopting tools and techniques from these other industries, MSK providers may be able to increase in-session engagement and patient satisfaction with telemedicine.\n\n\n\nAdvancing Telemedicine in Musculoskeletal Practice\nTelemedicine has the potential to bring healthcare to millions of patients who are unable to visit their doctor. This holds true even in specialties that traditionally demand a face-to-face, such as chiropractic, osteopathy, physical therapy, and pain medicine. Surprisingly, these specialties focused on musculoskeletal conditions have also benefited from the use of telemedicine, particularly during the COVID-19 pandemic (Lamplot and Taylor 2021).\nHowever, video calls leave much to be wanted, especially for conditions that are commonly examined and treated with direct, physical touch via physiotherapy, chiropractic, and massage. Patients and their clinicians observe feelings of disconnect during their live video calls (Ahmad et al. 2023). Healthcare systems and private clinics have been slow to include telemedicine in MSK practice for various reasons, including cost, resistance to change, and lack of clarity on the benefits and feasibility in this specialty (Davies et al. 2021). Learning how to make telemedicine a better experience for both patients and clinicians can accelerate the potiental reach of this promising technology.\n\n\n\n\n\nReferences\n\nAhmad, Farhan, Robert W. Wysocki, John J. Fernandez, Mark S. Cohen, and Xavier C. Simcock. 2023. “Patient Perspectives on Telemedicine During the COVID-19 Pandemic.” HAND 18 (3): 522–26. https://doi.org/10.1177/15589447211030692.\n\n\nDavies, Luke, Rana S Hinman, Trevor Russell, Belinda Lawford, Kim Bennell, Michael Billings, Carmen Cooper-Oguz, et al. 2021. “An International Core Capability Framework for Physiotherapists to Deliver Quality Care via Videoconferencing: A Delphi Study.” Journal of Physiotherapy 67 (4): 291–97. https://doi.org/10.1016/j.jphys.2021.09.001.\n\n\nLamplot, Joseph D., and Samuel A. Taylor. 2021. “Good Comes From Evil: COVID-19 and the Advent of Telemedicine in Orthopedics.” HSS Journal 17 (1): 7–13. https://doi.org/10.1177/1556331620972046."
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "posts/advancing-msk-telemedicine/index.html",
@@ -70,18 +49,11 @@
     "text": "Recommendations\nTo improve the provision of telemedicine, research and training initiatives should address new ways of conducting virtual visits and advancing the technical skills of clinicians beyond the core competencies and basic digital skills. By adopting technical tools from video production, broadcast, and livestreaming, providers can increase the quality of their video calls and more readily adapt to the unique needs of musculoskeletal care. By training clinicians how to foster emotional connection with enhanced communication skills and maintaining eye contact during calls, it may be possible to improve the patient experience, increase satisfaction, and affect outcomes."
   },
   {
-    "objectID": "posts/4-tips-improving-telehealth.html",
-    "href": "posts/4-tips-improving-telehealth.html",
-    "title": "4 Tips for Improving Telehealth Patient-Clinician Communication",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "4 Tips for Improving Telehealth Patient-Clinician Communication\nWhile telemedicine use has decreased slightly since the COVID pandemic, it is still much more common than it was before 2020.\nIncreasingly, patients—and clinicians—expect virtual calls as a convenient alternative, especially for visits where going to a clinic in person is not necessary. But, provider-patient communication via video calls is inherently different than face-to-face communication.\nHirschtritt & Kelly (2024) detail four tips to help providers gain their patients’ trust and improve the telemedicine experience.\n/1 Projects/4 Tips for Improving Telehealth Patient-Clinician Communication/4 Tips for Improving Telehealth Communication/4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-1.png\n/1 Projects/4 Tips for Improving Telehealth Patient-Clinician Communication/4 Tips for Improving Telehealth Communication/4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-2.png\n/1 Projects/4 Tips for Improving Telehealth Patient-Clinician Communication/4 Tips for Improving Telehealth Communication/4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-3.png\n/1 Projects/4 Tips for Improving Telehealth Patient-Clinician Communication/4 Tips for Improving Telehealth Communication/4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-4.png\n/1 Projects/4 Tips for Improving Telehealth Patient-Clinician Communication/4 Tips for Improving Telehealth Communication/4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-5.png\n/1 Projects/4 Tips for Improving Telehealth Patient-Clinician Communication/4 Tips for Improving Telehealth Communication/4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-6.png\nI wrote my master’s capstone paper on what things telemedicine providers could learn from video game live streamers and YouTubers.\nI reviewed a couple hundred articles, but couldn’t find anyone making the same suggestions I was exploring, especially the idea of simulated eye contact by looking directly at the camera lens. I began to feel a lot of doubt, worrying that my idea was too niche, technical, or obscure to be considered in healthcare (as many of my ideas are!).\nIt was pretty validating then, that less than a month after I submitted my capstone project, this article was published in JAMA.\nHirschtritt & Kelly highlight the concept of augmented gaze—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming.\nBut the technique is much, much older than that… It has been practiced by on-screen professionals (e.g. news anchors) for decades.\nIt can be awkward at first, but gets better with practice. Using a teleprompter to display the incoming video right in front of the lens can make this feel much more natural."
-  },
-  {
-    "objectID": "posts/4-tips-improving-telehealth/4-tips-improving-telehealth.html",
-    "href": "posts/4-tips-improving-telehealth/4-tips-improving-telehealth.html",
-    "title": "4 Tips for Improving Telehealth Patient-Clinician Communication",
-    "section": "",
-    "text": "4 Tips for Improving Telehealth Patient-Clinician Communication\nWhile telemedicine use has decreased slightly since the COVID pandemic, it is still much more common than it was before 2020.\nIncreasingly, patients—and clinicians—expect virtual calls as a convenient alternative, especially for visits where going to a clinic in person is not necessary. But, provider-patient communication via video calls is inherently different than face-to-face communication.\nHirschtritt & Kelly (2024) detail four tips to help providers gain their patients’ trust and improve the telemedicine experience.\n\n\n\n\n\n\nI wrote my master’s capstone paper on what things telemedicine providers could learn from video game live streamers and YouTubers.\nI reviewed a couple hundred articles, but couldn’t find anyone making the same suggestions I was exploring, especially the idea of simulated eye contact by looking directly at the camera lens. I began to feel a lot of doubt, worrying that my idea was too niche, technical, or obscure to be considered in healthcare (as many of my ideas are!).\nIt was pretty validating then, that less than a month after I submitted my capstone project, this article was published in JAMA.\nHirschtritt & Kelly highlight the concept of augmented gaze—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming.\nBut the technique is much, much older than that… It has been practiced by on-screen professionals (e.g. news anchors) for decades.\nIt can be awkward at first, but gets better with practice. Using a teleprompter to display the incoming video right in front of the lens can make this feel much more natural."
+    "text": "This is a post with executable code.\n\n1 + 1\n\n2"
   },
   {
     "objectID": "posts/4-tips-improving-telehealth/index.html",
@@ -89,5 +61,12 @@
     "title": "4 Tips for Improving Telehealth Patient-Clinician Communication",
     "section": "",
     "text": "4 Tips for Improving Telehealth Patient-Clinician Communication\nWhile telemedicine use has decreased slightly since the COVID pandemic, it is still much more common than it was before 2020.\nIncreasingly, patients—and clinicians—expect virtual calls as a convenient alternative, especially for visits where going to a clinic in person is not necessary. But, provider-patient communication via video calls is inherently different than face-to-face communication.\nHirschtritt and Kelly (2024) detail four tips to help providers gain their patients’ trust and improve the telemedicine experience.\n\n\n\n\n\n\nI wrote my master’s capstone paper on what things telemedicine providers could learn from video game live streamers and YouTubers.\nI reviewed a couple hundred articles, but couldn’t find anyone making the same suggestions I was exploring, especially the idea of simulated eye contact by looking directly at the camera lens. I began to feel a lot of doubt, worrying that my idea was too niche, technical, or obscure to be considered in healthcare (as many of my ideas are!).\nIt was pretty validating then, that less than a month after I submitted my capstone project, this article was published in JAMA.\nHirschtritt & Kelly highlight the concept of augmented gaze—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming.\nBut the technique is much, much older than that… It has been practiced by on-screen professionals (e.g. news anchors) for decades.\nIt can be awkward at first, but gets better with practice. Using a teleprompter to display the incoming video right in front of the lens can make this feel much more natural.\n\n\n\n\n\nReferences\n\nHirschtritt, Matthew E., and Stephanie Kelly. 2024. “Four Tips for Improving Video Telehealth Patient-Clinician Communication.” JAMA, August. https://doi.org/10.1001/jama.2024.12211."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 13, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 10, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\n4 Tips for Improving Telehealth Patient-Clinician Communication\n\n\n\nTech\n\nResearch\n\n\n\n\n\n\n\n\n\nOct 13, 2024\n\n\nNathan Cashion\n\n\n\n\n\n\n\n\n\n\n\n\nAdvancing Telemedicine in Musculoskeletal Practice\n\n\n\nthesis\n\nacademic\n\n\n\nTelemedicine has rapidly emerged as a promising approach to managing back, neck, and other musculoskeletal (MSK) pain. Despite impressive advances in the technology, clinicians and patients remain reluctant to adopt it. The transition to telemedicine from hands-on, in-person care presents numerous barriers. In contrast, new technologies and tools are readily embraced by early-adopters in other industries, such as video game streaming, fitness influencers, and YouTube content creators. By adopting tools and techniques from these other industries, MSK providers may be able to increase in-session engagement and patient satisfaction with telemedicine.\n\n\n\n\n\nJul 8, 2024\n\n\nNathan Cashion\n\n\n\n\n\nNo matching items"
   }
 ]
