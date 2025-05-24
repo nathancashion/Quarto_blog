@@ -1,0 +1,43 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Advancing Musculoskeletal Telemedicine\"\n",
+        "author: \"Nathan Cashion\"\n",
+        "date: \"2024-07-08\"\n",
+        "categories: [thesis, academic]\n",
+        "image: \"image.jpg\"\n",
+        "jupyter: python3\n",
+        "bibliography: references.bib\n",
+        "---\n",
+        "\n",
+        "\n",
+        "# Advancing Telemedicine in Musculoskeletal Practice\n",
+        "### What can telemedicine providers learn from live streamers?\n",
+        "\n",
+        "### **Abstract**\n",
+        "\n",
+        "Telemedicine has rapidly emerged as a promising approach to managing back, neck, and other musculoskeletal (MSK) pain. Despite impressive advances in the technology, clinicians and patients remain reluctant to adopt it. The transition to telemedicine from hands-on, in-person care presents numerous barriers. In contrast, new technologies and tools are readily embraced by early-adopters in other industries, such as video game streaming, fitness influencers, and YouTube content creators. By adopting tools and techniques from these other industries, MSK providers may be able to increase in-session engagement and patient satisfaction with telemedicine.\n",
+        "\n",
+        "# Advancing Telemedicine in Musculoskeletal Practice\n",
+        "\n",
+        "Telemedicine has the potential to bring healthcare to millions of patients who are unable to visit their doctor. This holds true even in specialties that traditionally demand a face-to-face, such as chiropractic, osteopathy, physical therapy, and pain medicine. Surprisingly, these specialties focused on musculoskeletal conditions have also benefited from the use of telemedicine, particularly during the COVID-19 pandemic [@lamplotGoodComesEvil2021].\n",
+        "\n",
+        "However, video calls leave much to be wanted, especially for conditions that are commonly examined and treated with direct, physical touch via physiotherapy, chiropractic, and massage. Patients and their clinicians observe feelings of disconnect during their live video calls [@ahmadPatientPerspectivesTelemedicine2023]. Healthcare systems and private clinics have been slow to include telemedicine in MSK practice for various reasons, including cost, resistance to change, and lack of clarity on the benefits and feasibility in this specialty [@daviesInternationalCoreCapability2021]. Learning how to make telemedicine a better experience for both patients and clinicians can accelerate the potiental reach of this promising technology."
+      ],
+      "id": "1fadbf77"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
