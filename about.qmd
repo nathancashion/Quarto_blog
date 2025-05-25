@@ -5,15 +5,30 @@ about:
   template: jolla
   links:
     - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+      text: X
+      href: https://x.com/nathancashion
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://linkedin.com/in/nathancashion
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/nathancashion
 ---
 
-About this blog
+### About this blog
+
+I'm a chiropractor by training with a recent M.S. in Health Informatics and data analysis.
+
+My interests include:
+
+-   digital health
+
+-   health IT
+
+-   telehealth/telemedicine
+
+-   data visualization
+
+-   web publishing
+
+-   knowledge transfer
