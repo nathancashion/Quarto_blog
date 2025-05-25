@@ -7,9 +7,9 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/nathancashion/
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/nathancashion
       - icon: linkedin
         href: https://www.linkedin.com/in/nathancashion/
 format:
@@ -17,7 +17,8 @@ format:
     respect-user-color-scheme: true
     theme: litera
     css: styles.css
-siteurl: https://nathancashiongithub.io/Quarto_blog
+siteurl: https://quarto.nathancashion.com
+description: "Nathan Cashion's personal website and blog powered by Quarto."
 repourl: https://github.com/nathancashion/Quarto_blog
 
 
