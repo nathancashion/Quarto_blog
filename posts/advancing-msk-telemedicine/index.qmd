@@ -29,8 +29,8 @@ image: "3 Broadcast Setup.png"
 bibliography: ../../references.bib
 ---
 
-:::{.column-page}
-![*What can telemedicine providers learn from live streamers?*](3 Broadcast Setup.png)
+::: column-page
+![*What can telemedicine providers learn from live streamers?*](3%20Broadcast%20Setup.png)
 :::
 
 # Advancing Telemedicine in Musculoskeletal Practice
@@ -39,13 +39,15 @@ Telemedicine has the potential to bring healthcare to millions of patients who a
 
 However, video calls leave much to be wanted, especially for conditions that are commonly examined and treated with direct, physical touch via physiotherapy, chiropractic, and massage. Patients and their clinicians observe feelings of disconnect during their live video calls [@ahmadPatientPerspectivesTelemedicine2023]. Healthcare systems and private clinics have been slow to include telemedicine in MSK practice for various reasons, including cost, resistance to change, and lack of clarity on the benefits and feasibility in this specialty [@daviesInternationalCoreCapability2021]. Learning how to make telemedicine a better experience for both patients and clinicians can accelerate the potiental reach of this promising technology.
 
-:::{.column-page}
-<iframe width="960" height="540" src="https://www.youtube-nocookie.com/embed/Obq0FGVvbZ8?si=LrEqlRQS7dMFKDal" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+::: column-page
+<iframe width="960" height="540" src="https://www.youtube-nocookie.com/embed/Obq0FGVvbZ8?si=LrEqlRQS7dMFKDal" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 :::
 
 ### Overview of Topic
 
-*Telemedicine* is defined as the practice of caring for patients from a distance [@jinTelemedicineCurrentImpact2020]. *Telehealth* is a broader term that can include population-based efforts in public and global health. In contrast, the focus of telemedicine is on a single patient or small group of patients \[@barberioTransitioningTelehealthTodays2021\]. *Telerehabilitation* is another term that is often used interchangeably with telemedicine for musculoskeletal conditions, particularly physical therapy in post-surgical scenarios [@baroniStateArtTelerehabilitation2023]. While the topic of this paper is focused on musculoskeletal applications, most of the concepts do apply to other specialties. Hence, I will use telemedicine throughout for consistency.
+*Telemedicine* is defined as the practice of caring for patients from a distance [@jinTelemedicineCurrentImpact2020]. *Telehealth* is a broader term that can include population-based efforts in public and global health. In contrast, the focus of telemedicine is on a single patient or small group of patients [@barberioTransitioningTelehealthTodays2021]. *Telerehabilitation* is another term that is often used interchangeably with telemedicine for musculoskeletal conditions, particularly physical therapy in post-surgical scenarios [@baroniStateArtTelerehabilitation2023]. While the topic of this paper is focused on musculoskeletal applications, most of the concepts do apply to other specialties. Hence, I will use telemedicine throughout for consistency.
 
 Telemedicine in various forms has been used for centuries (consider carrier pigeons being used to suggest tinctures for the plague or phone calls to the family doctor for a child's late-night stomachache) [@jinTelemedicineCurrentImpact2020]. Modernly, it has become nearly synonymous with implementations via the internet, such as video conferencing calls between a provider and a patient [@daviesInternationalCoreCapability2021].
 
@@ -153,7 +155,7 @@ Most of the research concerning engagement in telemedicine refers to the long-te
 
 @lvHowLiveStreaming2022 examined factors that lead to sustained engagement by viewers of live streaming media. The authors hypothesized that there is a link between visual stimuli (such as emojis), perceived trust, and presenter's social warmth and continued viewing. The authors developed a questionnaire that received 240 responses to validate their hypotheses. Based on their findings, the authors recommend live-streaming presenters engage their audience in real-time and build long-term trust by answering questions, designing visual stimuli to support engagement, and demonstrating social warmth.
 
-![*By incorporating visual stimuli, telemedicine providers can increase patient engagement.*](Telehealth Overlay Concept.002.png)
+![*By incorporating visual stimuli, telemedicine providers can increase patient engagement.*](Telehealth%20Overlay%20Concept.002.png)
 
 In his JAMA viewpoint, @mangioneOutTouch2024 reflects on the power of touch that has become increasingly absent in medicine. Amongst the various empirical benefits such as improved immune response, lower blood pressure, oxytocin and endorphin release, the author highlights the simple recognition that patients appreciate touch. Mangione observes that along with physical touch, eye contact has also decreased in the exam room (this is not a necessary casualty of telehealth—providers can simulate eye contact by learning to look directly into the camera).
 
@@ -161,7 +163,7 @@ In his JAMA viewpoint, @mangioneOutTouch2024 reflects on the power of touch that
 
 @liImpactFitnessInfluencers2023 examined how the characteristics of fitness influencers impacted people's perceived connection and behaviors. The authors found that personal attributes, such as attractiveness, and the quality of content were associated with viewers' motivations to exercise. By presenting high quality content and engaging with their viewers, social media influencers facilitated parasocial relationships which positively influence their viewers' behaviors. This research suggests that content quality is an important factor in achieving desired results from viewers.
 
-![*YouTubers like [Cleo Abram](https://youtube.com/@cleoabram) focus on content quality over quantity, resulting in high viewer engagement.*](3 CleoAbram.png)
+![*YouTubers like [Cleo Abram](https://youtube.com/@cleoabram) focus on content quality over quantity, resulting in high viewer engagement.*](3%20CleoAbram.png)
 
 ## Problem
 
@@ -188,7 +190,6 @@ These initiatives demonstrate, however, that to make progress in healthcare, it 
 Gamers use off-the shelf video and audio gear together with free, open-source software to produce high-definition, engaging live-streams from their bedroom. According to StreamYard [@HowMuchMoney2023], these productions draw millions of viewers and earn top streamers a healthy six-figure monthly income. This prompts the question:
 
 #### **What can telemedicine providers learn from live streamers?**
-
 
 The current research on telemedicine shows it is a viable alternative for most of what occurs during regular visits. Gathering the patient's subjective complaints, conducting a history, performing a comprehensive exam, determining a likely diagnosis and prognosis, and providing patient education can all be done as well or better than in-person for many conditions, including spine pain [@ansaryVirtualPhysicalExam2021; @satinVirtualSpineExamination2021].
 
