@@ -15,6 +15,9 @@ format:
     respect-user-color-scheme: true
     theme: litera
     css: styles.css
+siteurl: https://nathancashiongithub.io/Quarto_blog
+repourl: https://github.com/nathancashion/Quarto_blog
+
 
 editor: visual
 
