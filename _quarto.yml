@@ -10,6 +10,8 @@ website:
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nathancashion/
 format:
   html:
     respect-user-color-scheme: true
