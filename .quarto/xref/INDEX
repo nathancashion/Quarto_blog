@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "6b9bc35a"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "67d5210f"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "0d6fad4c"
+  },
+  "about.qmd": {
+    "about.html": "71a2967d"
+  },
+  "posts/advancing-msk-telemedicine/advancing-msk-telemedicine.qmd": {
+    "advancing-msk-telemedicine.html": "0196cf69"
+  },
+  "posts/advancing-msk-telemedicine/index.qmd": {
+    "index.html": "669620c0"
+  },
+  "posts/4-tips-improving-telehealth.qmd": {
+    "4-tips-improving-telehealth.html": "7fe47e38"
+  },
+  "posts/4-tips-improving-telehealth/4-tips-improving-telehealth.qmd": {
+    "4-tips-improving-telehealth.html": "627137e7"
+  },
+  "posts/4-tips-improving-telehealth/index.qmd": {
+    "index.html": "8bd2c4e8"
+  },
+  "posts/ordinal-decades-and-axis-anchoring/index.qmd": {
+    "index.html": "9e55c5dc"
+  }
+}
