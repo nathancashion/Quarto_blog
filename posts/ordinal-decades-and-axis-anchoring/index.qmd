@@ -2,7 +2,7 @@
 title: Ordinal decades and axis anchoring
 alias:
 date: 2025-05-25
-Author: Nathan Cashion
+author: Nathan Cashion
 status: published
 URL: https://nathancashion.com/blog/2025/5/ordinal-decades-and-axis-anchoring
 categories: Rant
@@ -20,8 +20,8 @@ bibliography: references.bib
 
 [A tweet](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ) about decreases in muscle strength for aging women caught my eye.
 
-> Women experience faster, earlier muscle decline with age. New data from @steven_obryan and co. in women aged 18-80 found the steepest declines begin in the 4th decade, around menopause.\
-> <cite>—[\@jacksonfyfe](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ)[ on X](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ)</cite>
+> Women experience faster, earlier muscle decline with age. New data from \\@steven_obryan and co. in women aged 18-80 found the steepest declines begin in the 4th decade, around menopause.\
+> <cite>— \\[\@jacksonfyfe](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ)[ on X](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ)</cite>
 
 ![A tweet from Jackson Fife seems to indicate menopause happens to women in their 30s.](2025-ordinal-decades-axis-anchoring_2.jpeg)
 
@@ -53,9 +53,9 @@ I continued reading, looking for any mention of the actual years.
 
 From the **Results** section:
 
-> The steeper decline of each curve, defined as the point where the first derivative fell below 75% of its maximum value, started at 42.9 years of age for PT10, 44 years of age for RTD, 45.2 years of age for PT100, 46.4 years of age for MVC and 47.6 years of age for e1RM (Fig. 1A–E, red shaded region).
+> The steeper decline of each curve, defined as the point where the first derivative fell below 75% of its maximum value, started at **42.9** years of age for PT10, **44** years of age for RTD, **45.2** years of age for PT100, **46.4** years of age for MVC and **47.6** years of age for e1RM (Fig. 1A–E, red shaded region).
 
-The accompanying chart highlights the areas of interest with age on the *x*-axes. Note that none of the highlighted sections go into the 30s. They all start in the 40s.
+The accompanying chart highlights the areas of interest with age on the *x*-axes. Note that none of the highlighted sections go into the 30s. They all start in the **40s**.
 
 ![Figure 1 from @obryan2025](2025-ordinal-decades-axis-anchoring_4.jpeg)
 
@@ -63,7 +63,7 @@ The 40s. Hmm, ok, the results were as I expected, but even the authors of the pa
 
 ### How could this happen?
 
-The original tweet and the paper include this graphic combining the various factors relating to muscle decline in women overlayed on a timeline depicting age.
+The original tweet and the paper include this graphic combining the various factors relating to muscle decline in women overlaid on a timeline depicting age.
 
 ![An summary graphic from @obryan2025 depicts the various factor affecting neuromuscular function across the lifespan in women.](2025-ordinal-decades-axis-anchoring_3.jpeg)
 
