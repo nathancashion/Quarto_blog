@@ -1,0 +1,80 @@
+---
+title: Ordinal decades and axis anchoring
+alias:
+date: 2025-05-25
+Author: Nathan Cashion
+status: published
+URL: https://nathancashion.com/blog/2025/5/ordinal-decades-and-axis-anchoring
+categories: Rant
+tags:
+  - dataviz
+  - publishing
+  - writing
+  - academicwriting
+bibliography: references.bib
+---
+
+# Ordinal decades and axis anchoring
+
+*While I am a pedant and have strong opinions on grammar, I usually don't spend so much time on trite issues like this. But I awoke to my dog dry heaving at 2 a.m. and couldn't get back to sleep. After reading on my Kindle for a while, I eventually gave in to scrolling social media and came across this post. I guess these are the thoughts that go through my sleep-deprived head when there's nothing else to keep it occupied. The research paper in question is otherwise above my head but seems to be quite interesting and worth reading.*
+
+[A tweet](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ) about decreases in muscle strength for aging women caught my eye.
+
+> Women experience faster, earlier muscle decline with age. New data from @steven_obryan and co. in women aged 18-80 found the steepest declines begin in the 4th decade, around menopause.\
+> <cite>—[\@jacksonfyfe](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ)[ on X](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ)</cite>
+
+![A tweet from Jackson Fife seems to indicate menopause happens to women in their 30s.](2025-ordinal-decades-axis-anchoring_2.jpeg)
+
+Something about this felt off. While I understand that muscle growth slows in the late 20s and early 30s, surely *accelerated* muscle decline couldn’t be that early. And “around menopause”? Women who experience menopause in their 40s are considered early. But menopause in the 30s would be considered very unusual. Yet this tweet was suggesting that both were normal at this stage of life.
+
+It became clear that the issue was confusion about ordinal nomenclature[^1] for decades.
+
+[^1]: Also called [ordinal counting](https://en.wikipedia.org/wiki/Ordinal_numeral) or naming.
+
+This can often be tricky. Our first birthday is when we turn one, which happens at *the end* of our first year. Similarly, our 10th birthday is at the end of our tenth year. We are in the *n*th year *before* we turn *n* years old.
+
+The same goes for [decades](https://en.wikipedia.org/wiki/Decade#0-to-9_decade). Our first decade is from birth until the end of our 10th year. Our 10th birthday is the start of our 2nd decade, which continues through our teens until we reach 20 years old, when we enter our 3rd decade, etc.[^2]
+
+[^2]: What's curious to me is that most people get this right with centuries. The *19th century* refers to any year starting with "18\_\_". We're currently in the *21st century* and will be until 2100 (or is it 2101?).
+
+I can’t blame someone for getting this wrong, but I wanted to make sure the research wasn’t revealing something more alarming. I fully expected the paper to either correctly identify the nominal decade or to simply report the years (e.g. 40-49).
+
+I pulled up the paper, [*The contribution of age and sex hormones to female neuromuscular function across the adult lifespan*](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP287496) to skim the abstract.
+
+> Voluntary and evoked torques and one-repetition maximum decreased non-linearly with age, with accelerated reductions starting during **the fourth decade.**
+
+Uh oh.
+
+From the **Key Points** section:
+
+> We show an accelerated reduction in neuromuscular function, primarily of peripheral muscular origin, that occurs during **the fourth decade** and coincides with menopause onset.
+
+I continued reading, looking for any mention of the actual years.
+
+From the **Results** section:
+
+> The steeper decline of each curve, defined as the point where the first derivative fell below 75% of its maximum value, started at 42.9 years of age for PT10, 44 years of age for RTD, 45.2 years of age for PT100, 46.4 years of age for MVC and 47.6 years of age for e1RM (Fig. 1A–E, red shaded region).
+
+The accompanying chart highlights the areas of interest with age on the *x*-axes. Note that none of the highlighted sections go into the 30s. They all start in the 40s.
+
+![Figure 1 from @obryan2025](2025-ordinal-decades-axis-anchoring_4.jpeg)
+
+The 40s. Hmm, ok, the results were as I expected, but even the authors of the paper got the decade wrong.
+
+### How could this happen?
+
+The original tweet and the paper include this graphic combining the various factors relating to muscle decline in women overlayed on a timeline depicting age.
+
+![An summary graphic from @obryan2025 depicts the various factor affecting neuromuscular function across the lifespan in women.](2025-ordinal-decades-axis-anchoring_3.jpeg)
+
+AHA. *There* it is.
+
+The timeline begins at zero with tick marks for every 10 years, **except for the first 10**. It starts at 0, skips to 20, then continues by 10s until 80 with the axis line ending in an arrow. The gap between 0 and 20 is conspicuously equal to the subsequent gaps—20 years were condensed into the same space as 10 years for the rest of the timeline.
+
+![A slight error in chart design may have led the authors to incorrectly name the decade of interest.](2025-ordinal-decades-axis-anchoring_1.jpeg)
+
+This is a classic example of an axis-anchoring error in chart design.[^3] It usually is done on the *y*-axis of bar charts, either intentionally or unintentionally, to inflate the effect of smaller differences in values.
+
+[^3]: Starting the axis at a number other than zero. I may have made up this term, but starting the axis at zero is a commonly accepted [best practice](https://guides.library.duke.edu/datavis/topten).
+
+In this case, it may have played a role in selecting the wrong name for the decade starting in one's 40s—the ***fifth*** **decade**.
