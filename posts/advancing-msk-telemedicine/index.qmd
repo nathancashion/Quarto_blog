@@ -22,6 +22,9 @@ format:
         toc: true
         papersize: letter
         documentclass: article
+        mainfont: Arial
+        pdf-engine: pdflatex
+        classoption: [twocolumn, portrait]
         
 abstract: >
   Telemedicine has rapidly emerged as a promising approach to managing back, neck, and other musculoskeletal (MSK) pain. Despite impressive advances in the technology, clinicians and patients remain reluctant to adopt it. The transition to telemedicine from hands-on, in-person care presents numerous barriers. In contrast, new technologies and tools are readily embraced by early-adopters in other industries, such as video game streaming, fitness influencers, and YouTube content creators. By adopting tools and techniques from these other industries, MSK providers may be able to increase in-session engagement and patient satisfaction with telemedicine.
