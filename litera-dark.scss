@@ -1,0 +1,172 @@
+/*-- scss:defaults --*/
+
+// Dark mode color variables
+$body-bg: #1a1a1a;
+$body-color: #e9ecef;
+$text-muted: #adb5bd;
+
+// Background variations
+$gray-100: #2d2d2d;
+$gray-200: #3d3d3d;
+$gray-300: #4d4d4d;
+$gray-800: #e9ecef;
+$gray-900: #f8f9fa;
+
+// Card and content backgrounds
+$card-bg: #2d2d2d;
+$navbar-dark-bg: #2d2d2d;
+
+// Keep litera's accent colors but adjust for dark mode
+$primary: #4dabf7;
+$secondary: #6c757d;
+$success: #51cf66;
+$info: #22b8cf;
+$warning: #ffd43b;
+$danger: #ff6b6b;
+
+// Link colors
+$link-color: #4dabf7;
+$link-hover-color: #74c0fc;
+
+// Border colors
+$border-color: #404040;
+$card-border-color: #404040;
+
+/*-- scss:rules --*/
+
+// Ensure full page dark background
+html, body {
+  background-color: $body-bg !important;
+  color: $body-color !important;
+}
+
+// Navigation
+.navbar {
+  background-color: $body-bg !important;
+  border-bottom: 1px solid $border-color;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: $body-color !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: $primary !important;
+}
+
+// Title block - target all possible title block elements
+.title-block-banner,
+.title-block-header,
+.title-block,
+div[class*="title-block"] {
+  background-color: $body-bg !important;
+  color: $body-color !important;
+}
+
+// Additional title block targeting
+header.title-block-header {
+  background-color: $body-bg !important;
+  color: $body-color !important;
+}
+
+// Additional quarto-title-banner targeting
+.quarto-title-banner {
+  background-color: $body-bg !important;
+  color: $body-color !important;
+}
+
+// In case it's using Bootstrap's bg-primary class
+.bg-primary {
+  background-color: $body-bg !important;
+}
+
+// Content areas
+.card {
+  background-color: $card-bg;
+  border: 1px solid $card-border-color;
+  color: $body-color;
+}
+
+// Code blocks
+pre, code {
+  background-color: $gray-100;
+  border: 1px solid $border-color;
+  color: $body-color;
+}
+
+code {
+  background-color: $gray-200;
+  padding: 0.2em 0.4em;
+  border-radius: 0.25rem;
+}
+
+// Tables
+.table {
+  color: $body-color;
+  
+  th, td {
+    border-color: $border-color;
+  }
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) > td,
+.table-striped > tbody > tr:nth-of-type(odd) > th {
+  background-color: $gray-200;
+}
+
+// Blockquotes
+blockquote {
+  border-left: 4px solid $primary;
+  background-color: $gray-100;
+  color: $body-color;
+}
+
+// Sidebar and TOC
+.sidebar, .toc-active {
+  background-color: $gray-100;
+  border: 1px solid $border-color;
+}
+
+// Footer
+.nav-footer {
+  background-color: $gray-100;
+  border-top: 1px solid $border-color;
+}
+
+// Form elements
+.form-control {
+  background-color: $gray-100;
+  border: 1px solid $border-color;
+  color: $body-color;
+}
+
+.form-control:focus {
+  background-color: $gray-100;
+  border-color: $primary;
+  color: $body-color;
+}
+
+// Buttons (keep litera's button styling but adjust colors)
+.btn-outline-primary {
+  color: $primary;
+  border-color: $primary;
+}
+
+.btn-outline-primary:hover {
+  background-color: $primary;
+  border-color: $primary;
+  color: #fff;
+}
+
+// Callout boxes
+.callout {
+  background-color: $gray-100;
+  border-left: 4px solid $primary;
+}
+
+// Search
+.aa-DetachedSearchButton {
+  background-color: $gray-100 !important;
+  border: 1px solid $border-color !important;
+  color: $body-color !important;
+}
