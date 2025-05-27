@@ -18,6 +18,7 @@ image_alt: "Screenshot of the Journal of Actually Well-written Science homepage,
 ---
 
 # Journal of Actually Well-written Science
+![The Journal of Actually Well-written Science homepage](media/jawws.jpg)
 
 I stumbled across [the blog](https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/) of [EtienneFD](https://etiennefd.com)[^1] and noticed how well the ideas align with similar thoughts I've had about journals and publishing.
 
