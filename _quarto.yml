@@ -19,7 +19,7 @@ format:
     css: styles.css
 siteurl: https://quarto.nathancashion.com
 description: "Nathan Cashion's personal website and blog powered by Quarto."
-repourl: https://github.com/nathancashion/Quarto_blog
+repourl: https://quarto.nathancashion.com
 
 
 editor: visual
