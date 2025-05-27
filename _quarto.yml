@@ -17,9 +17,9 @@ format:
     respect-user-color-scheme: true
     theme: litera
     css: styles.css
-siteurl: https://quarto.nathancashion.com
+site-url: https://quarto.nathancashion.com
 description: "Nathan Cashion's personal website and blog powered by Quarto."
-repourl: https://quarto.nathancashion.com
+repo-url: https://quarto.nathancashion.com
 
 
 editor: visual
