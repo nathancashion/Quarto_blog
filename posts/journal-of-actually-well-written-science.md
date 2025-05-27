@@ -1,6 +1,7 @@
 ---
 title: Journal of Actually Well-written Science
 alias: 
+description: A look at the Journal of Actually Well-written Science, a journal focused on readability in scientific papers, and its alignment with better UX design in publishing.
 date: 2024-10-13
 categories: 
 author: Nathan Cashion 
