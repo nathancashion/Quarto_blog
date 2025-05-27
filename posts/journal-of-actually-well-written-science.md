@@ -12,7 +12,7 @@ tags:
   - publishing
   - abbreviations
   - UX
-image: media/jawws.png
+image: media/jawws.jpg
 image_alt: "Screenshot of the Journal of Actually Well-written Science homepage, featuring a platypus illustration and a list of articles."
 ---
 
