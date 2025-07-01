@@ -7,7 +7,10 @@ author:
     url: https://nathancashion.com
 Published: True
 URL: https://www.exploringchiropractic.com/blog/2024/10/4-tips-for-improving-telehealth-patient-clinician-communication
-Tags: telehealth, telemedicine, communication
+Tags: 
+  - telehealth
+  - telemedicine
+  - communication
 bibliography: ../../references.bib
 ---
 
@@ -19,17 +22,17 @@ Increasingly, patients—and clinicians—expect virtual calls as a convenient a
 
 @hirschtrittFourTipsImproving2024 detail four tips to help providers gain their patients' trust and improve the telemedicine experience.
 
-![](4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-1.png)
+![](4TipsImprovingTelehealthPatientClinicianCommunication_NY_WIDEslide-1.png)
 
-![](4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-2.png)
+![](4TipsImprovingTelehealthPatientClinicianCommunication_NY_WIDEslide-2.png)
 
-![](4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-3.png)
+![](4TipsImprovingTelehealthPatientClinicianCommunication_NY_WIDEslide-3.png)
 
-![](4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-4.png)
+![](4TipsImprovingTelehealthPatientClinicianCommunication_NY_WIDEslide-4.png)
 
-![](4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-5.png)
+![](4TipsImprovingTelehealthPatientClinicianCommunication_NY_WIDEslide-5.png)
 
-![](4 Tips for Improving Telehealth Patient-Clinician Communication_NY_WIDEslide-6.png)
+![](4TipsImprovingTelehealthPatientClinicianCommunication_NY_WIDEslide-6.png)
 
 I wrote my [master's capstone paper](../advancing-msk-telemedicine) on what things telemedicine providers could learn from video game live streamers and YouTubers.
 
@@ -37,7 +40,7 @@ I reviewed a couple hundred articles, but couldn't find anyone making the same s
 
 It was pretty validating then, that less than a month after I submitted my capstone project, this article was published in JAMA.
 
-Hirschtritt & Kelly highlight the concept of *augmented gaze*—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming.
+@hirschtrittFourTipsImproving2024 highlight the concept of *augmented gaze*—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming.
 
 But the technique is much, much older than that… It has been practiced by on-screen professionals (e.g. news anchors) for decades.
 

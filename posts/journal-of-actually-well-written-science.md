@@ -1,6 +1,6 @@
 ---
 title: Journal of Actually Well-written Science
-alias: 
+alias: JAWS
 description: A look at the Journal of Actually Well-written Science, a journal focused on readability in scientific papers, and its alignment with better UX design in publishing.
 date: 2024-10-13
 categories: 
@@ -20,7 +20,7 @@ image_alt: "Screenshot of the Journal of Actually Well-written Science homepage,
 # Journal of Actually Well-written Science
 ![The Journal of Actually Well-written Science homepage](media/jawws.jpg)
 
-I stumbled across [the blog](https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/) of [EtienneFD](https://etiennefd.com)[^1] and noticed how well the ideas align with similar thoughts I've had about journals and publishing.
+I stumbled across [the blog](https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/) of [EtienneFD](https://etiennefd.com)[^1] and noticed how well the ideas align with my own thoughts had about journals and publishing.
 
 What first caught my eye, beyond the minimalistic theme, was the title of his most recent post–*‌[Platypus Paper, Rewritten](https://etiennefd.com/dgm/platypus-paper-rewritten/)*[^2] It's a proof of concept of his idea of "a science journal that focusses on readability."
 
@@ -34,11 +34,11 @@ His article on [abbreviations](https://etiennefd.com/dgm/science-style-guide-abb
 
 And Étienne is in good company. Steven Pinker argues that abbreviations should be avoided altogether.
 
-![Quote from *Sense of Style* by Steven Pinker](media/Abbreviations Sense of Style.png)
+![Quote from *Sense of Style* by Steven Pinker](/media/Abbreviations_SenseOfStyle.png)
 
 Paul Sylvia, author of *How to Write More* agrees, adding that abbreviations are more tedious than reading the original words over and over.
 
-![Quote from *How to Write a Lot* by Paul Silvia](media/Abbreviations How to Write a Lot.png)
+![Quote from *How to Write a Lot* by Paul Silvia](/media/Abbreviations_HowToWriteALot.png)
 
 While Étienne hasn’t written much lately[^5], Mike Morrison of #betterposter fame has started [a new journal](https://scienceux.org) from the same cloth—this one focused on better UX design in scientific publishing.
 

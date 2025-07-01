@@ -8,7 +8,9 @@ author:
     url: https://www.nathancashion.com
 status: published
 URL: https://nathancashion.com/blog/2025/5/ordinal-decades-and-axis-anchoring
-categories: Rant
+categories:
+  - Rant
+  - Science
 tags:
   - dataviz
   - publishing
@@ -25,7 +27,7 @@ image: 2025-ordinal-decades-axis-anchoring_3.jpeg
 
 [A tweet](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ) about decreases in muscle strength for aging women caught my eye.
 
-> Women experience faster, earlier muscle decline with age. New data from \\\@steven_obryan and co. in women aged 18-80 found the steepest declines begin in the 4th decade, around menopause.\
+> Women experience faster, earlier muscle decline with age. New data from \@steven_obryan and co. in women aged 18-80 found the steepest declines begin in the 4th decade, around menopause.\
 > <cite>— [Jackson Fyfe on X](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ)</cite>
 
 ![A tweet from Jackson Fife seems to indicate menopause happens to women in their 30s.](2025-ordinal-decades-axis-anchoring_2.jpeg)
