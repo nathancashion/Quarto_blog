@@ -1,7 +1,7 @@
 ---
 title: Advancing Telemedicine in Musculoskeletal Practice
 description: My capstone paper combined my interests in chiropractic, health informatics, and broadcasting live video. Here is the full-text of my paper as submitted with minor changes for the web.
-date: 2024-07-08
+date: 2024-07-28
 author:
   - name: Nathan Cashion
     id: nc
@@ -44,6 +44,7 @@ bibliography: ../../references.bib
 ::: column-page
 ![*What can telemedicine providers learn from live streamers?*](3BroadcastSetup.png)
 :::
+
 # Advancing Telemedicine in Musculoskeletal Practice
 
 Telemedicine has the potential to bring healthcare to millions of patients who are unable to visit their doctor. This holds true even in specialties that traditionally demand a face-to-face, such as chiropractic, osteopathy, physical therapy, and pain medicine. Surprisingly, these specialties focused on musculoskeletal conditions have also benefited from the use of telemedicine, particularly during the COVID-19 pandemic [@lamplotGoodComesEvil2021].
@@ -162,7 +163,7 @@ Most of the research concerning engagement in telemedicine refers to the long-te
 
 ![*By incorporating visual stimuli, telemedicine providers can increase patient engagement.*](TelehealthOverlayConcept.002.png)
 
-In their JAMA viewpoint, @mangioneOutTouch2024 reflect on the power of touch that has become increasingly absent in medicine. Amongst the various empirical benefits such as improved immune response, lower blood pressure, oxytocin and endorphin release, the author highlights the simple recognition that patients appreciate touch. @mangioneOutTouch2024 observe that along with physical touch, eye contact has also decreased in the exam room (this is not a necessary casualty of telehealth—providers can simulate eye contact by learning to look directly into the camera).
+In their JAMA viewpoint, @mangioneOutTouch2024 reflect on the power of touch that has become increasingly absent in medicine. Amongst the various empirical benefits such as improved immune response, lower blood pressure, oxytocin and endorphin release, the author highlights the simple recognition that patients appreciate touch. @mangioneOutTouch2024 observe that, along with physical touch, eye contact has also decreased in the exam room (this is not a necessary casualty of telehealth—providers can simulate eye contact by learning to look directly into the camera).
 
 *Content quality*
 
@@ -192,9 +193,9 @@ Another approach to managing musculoskeletal conditions from a distance involves
 
 These initiatives demonstrate, however, that to make progress in healthcare, it is often helpful to look to outsiders who can reframe the problem [@khoslaventuresWinningOutsiderBuilding2023; @staeritzHowCanHealthcare2021]. Let's look to another industry that has made live, synchronous video engaging and popular – video game streaming.
 
-Gamers use off-the shelf video and audio gear together with free, open-source software to produce high-definition, engaging live-streams from their bedroom. According to StreamYard [@HowMuchMoney2023], these productions draw millions of viewers and earn top streamers a healthy six-figure monthly income. This prompts the question:
+Gamers use off-the shelf video and audio gear together with free, open-source software to produce high-definition, engaging live-streams from their bedroom. According to StreamYard [@HowMuchMoney2023], these productions draw millions of viewers and earn top streamers a healthy six-figure monthly income. This prompts the question: 
 
-#### **What can telemedicine providers learn from live streamers?**
+> **What can telemedicine providers learn from live streamers?**
 
 The current research on telemedicine shows it is a viable alternative for most of what occurs during regular visits. Gathering the patient's subjective complaints, conducting a history, performing a comprehensive exam, determining a likely diagnosis and prognosis, and providing patient education can all be done as well or better than in-person for many conditions, including spine pain [@ansaryVirtualPhysicalExam2021; @satinVirtualSpineExamination2021].
 
@@ -242,7 +243,7 @@ Additionally, a properly prepared space will take acoustics into account. The fe
 
 Health inequality is an important issue in healthcare, particularly among people in low- and middle-income countries. Unfortunately, the very nature of digital health tools excludes a significant portion of the population who most need access to care. The World Health Organization reports that one third of the global population are in need of rehabilitation services [@gimiglianoWorldHealthOrganization2017]. The majority of these individuals live in areas with lower healthcare resources. They also lack the health and digital literacy needed to be able to participate in telemedicine activities [@fernandesWhatExtentCan2021].
 
-The economic and social barriers to telemedicine are difficult to address. And my proposal is not a solution to them. In fact, in the beginning it may actually lead to greater disparity, unfortunately. There is increased cost and necessary training on the part of providers. But my hope is that by pushing the technology forward and making it more effective now, it will be easier to bring it to a wider audience in the near future.
+The economic and social barriers to telemedicine are difficult to address. And my proposal is not a solution to them. In fact, in the beginning it may actually lead to greater disparity, unfortunately. There is increased cost and necessary training on the part of providers. But my hope is that by pushing the technology forward and making it more effective now, it will be easier to bring it to a wider audience in the near future. 
 
 ## Recommendations
 
