@@ -23,7 +23,7 @@ format:
     documentclass: article
     mainfont: Arial
     pdf-engine: pdflatex
-abstract: |
+abstract:
   Telemedicine has rapidly emerged as a promising approach to managing back, neck, and other musculoskeletal (MSK) pain. Despite impressive advances in the technology, clinicians and patients remain reluctant to adopt it. The transition to telemedicine from hands-on, in-person care presents numerous barriers. In contrast, new technologies and tools are readily embraced by early-adopters in other industries, such as video game streaming, fitness influencers, and YouTube content creators. By adopting tools and techniques from these other industries, MSK providers may be able to increase in-session engagement and patient satisfaction with telemedicine.
 categories:
   - Science
@@ -45,7 +45,6 @@ bibliography: ../../references.bib
 ::: column-page
 ![*What can telemedicine providers learn from live streamers?*](3BroadcastSetup.png)
 :::
-
 # Advancing Telemedicine in Musculoskeletal Practice
 
 Telemedicine has the potential to bring healthcare to millions of patients who are unable to visit their doctor. This holds true even in specialties that traditionally demand a face-to-face, such as chiropractic, osteopathy, physical therapy, and pain medicine. Surprisingly, these specialties focused on musculoskeletal conditions have also benefited from the use of telemedicine, particularly during the COVID-19 pandemic [@lamplotGoodComesEvil2021].
@@ -54,7 +53,6 @@ However, video calls leave much to be wanted, especially for conditions that are
 
 ::: column-page
 <iframe width="960" height="540" src="https://www.youtube-nocookie.com/embed/Obq0FGVvbZ8?si=LrEqlRQS7dMFKDal" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
 </iframe>
 :::
 
@@ -114,11 +112,11 @@ A review of the existing literature on telemedicine in musculoskeletal care reve
 
 Out of necessity, the use of telemedicine accelerated during the global COVID pandemic. A Nature Medicine editorial reflects on the trajectory of telehealth during the COVID-19 pandemic [@TelehealthHereStay2021]. According to Medicare data, telehealth visits increased ten-fold in a 12-month period (from March 2020–March 2021).
 
-Telemedicine is not only used for individuals. Several programs have explored adapting group programs for chronic pain to a virtual setting. @wallaceGroupIndividualTelehealth2022 conducted a scoping review of group and individual telehealth for chronic musculoskeletal pain to explore patient perspectives on virtually delivered pain management programmes. From 10 included studies, the authors extracted 4 themes: usability of the technology, tailored care, therapeutic alliance, and managing behavior. The authors determined that telehealth for chronic musculoskeletal pain is acceptable by patients. Group telehealth programs additionally offer opportunities for social support and validation of the pain experience. Patients felt empowered and intrinsically motivated to modify their behaviour. The authors discussed how clinicians can help develop a therapeutic alliance during telehealth interventions. This is more readily accomplished via synchronous video-conferencing rather than asynchronous messaging.
+Telemedicine is not only used for individuals. Several programs have explored adapting group programs for chronic pain to a virtual setting. @wallaceGroupIndividualTelehealth2022 conducted a scoping review of group and individual telehealth for chronic musculoskeletal pain to explore patient perspectives on virtually delivered pain management programs. From 10 included studies, the authors extracted 4 themes: usability of the technology, tailored care, therapeutic alliance, and managing behavior. The authors determined that telehealth for chronic musculoskeletal pain is acceptable by patients. Group telehealth programs additionally offer opportunities for social support and validation of the pain experience. Patients felt empowered and intrinsically motivated to modify their behavior. The authors discussed how clinicians can help develop a therapeutic alliance during telehealth interventions. This is more readily accomplished via synchronous video-conferencing rather than asynchronous messaging.
 
 South Africa offers a group Patient Education Empowerment Programme (PEEP) for patients living with chronic pain. Due to the pandemic, this program was adapted to be delivered remotely via synchronous (group calls) and asynchronous (educational materials) methods. @ernstzenYouMustUnderstand2022 interviewed six women who participated in this 6-week telehealth group program to learn what worked and what didn't. The patients felt that the program helped them start on a journey of self-discovery and personal development. Connecting with other patients experiencing similar pain and disability helped validate their experiences and motivated them to alter their behaviors. Participants reported that this method of delivering a group program for chronic musculoskeletal pain was feasible and that they felt engaged and supported. Facilitators were able to develop a therapeutic alliance through virtual communication without meeting patients in person. While there were barriers to comfortably participating in this course, facilitators were able to address them with planning. For example, data packages were provided to patients to cover the cost of increased cellular data usage.
 
-@ahmadPatientPerspectivesTelemedicine2023 surveyed nearly 500 patients who had received telemedicine care for hand surgery consultation during the pandemic. The majority of respondents liked their experience of a teleconsultation and felt satisfied with the attention recieved from their provider. Despite this, over two-thirds of the patients said they would still prefer an in-person visits when available. Common reasons for this choice included difficulty explaining their symptoms and the need for an in-person follow-up visit to move forward with their care.
+@ahmadPatientPerspectivesTelemedicine2023 surveyed nearly 500 patients who had received telemedicine care for hand surgery consultation during the pandemic. The majority of respondents liked their experience of a teleconsultation and felt satisfied with the attention received from their provider. Despite this, over two-thirds of the patients said they would still prefer an in-person visits when available. Common reasons for this choice included difficulty explaining their symptoms and the need for an in-person follow-up visit to move forward with their care.
 
 *Diagnosis and management of MSK conditions via telemedicine*
 
@@ -140,7 +138,7 @@ A study in India showed that telerehabilitation for spine pain reduced pain and 
 
 As telehealth becomes more popular and widespread, it is important to recognize the strengths and weaknesses of this new platform. While many clinicians and patients see the lack of hands-on care as a drawback [@bartonItsSecondBest2022], manual therapy is just one of many modalities that clinicians can use to manage patients with musculoskeletal conditions. Nevertheless, while physical touch isn't required in medicine, it is still appropriate to consider the inherent value in skin-to-skin contact.
 
-@apathyTelemedicineInPersonVisit2024 recognize that providers offering telemedicine must change their workflow. The authors analyzed how much time clinicians in a large multispecialty clinic spent on their EHR in two types of visits – telemedicine and standard, in-person visits. The goal was to identify whether offering telemedicine visits changed the amount of time spent on EHR documentation.
+@apathyTelemedicineInPersonVisit2024 recognize that providers offering telemedicine must change their workflow. The authors analyzed how much time clinicians in a large multi-specialty clinic spent on their EHR in two types of visits – telemedicine and standard, in-person visits. The goal was to identify whether offering telemedicine visits changed the amount of time spent on EHR documentation.
 
 The authors found that on days with telemedicine visits, clinicians spent an average of 14.8 minutes more on documentation in the EHR compared to days with no telemedicine visits. However, on days with only telemedicine visits, there was no increase in time spent in the EHR. This suggests that mixing in-person and telemedicine visits in the clinic may lead to inefficiencies as opposed to dedicating certain days to telemedicine visits. This suggests that a hybrid approach has drawbacks. If clinicians dedicate time to telemedicine, they may see improved outcomes.
 
@@ -153,7 +151,7 @@ Most of the research concerning engagement in telemedicine refers to the long-te
 @liuHowCanLive2021 examined viewer engagement in ecommerce streaming, where a presenter reviews or discusses products with a goal to sell to their audience. The authors promote *intimacy theory*—the idea that acting in an authentic and transparent manner builds trust and intimacy—as a model for engaging live viewers. Several suggestions are offered. Live streamers should:
 -   respond quickly to viewers comments or questions
 -   present a consistent and authentic personal brand
--   demonstrate attudinal similarity by mirroring viewer's beliefs or opinions
+-   demonstrate attitudinal similarity by mirroring viewer's beliefs or opinions
 -   speak directly to viewers
 -   simulate direct eye contact by looking directly into the camera.
 
@@ -165,7 +163,7 @@ Most of the research concerning engagement in telemedicine refers to the long-te
 
 ![*By incorporating visual stimuli, telemedicine providers can increase patient engagement.*](TelehealthOverlayConcept.002.png)
 
-In their JAMA viewpoint, @mangioneOutTouch2024 reflect on the power of touch that has become increasingly absent in medicine. Amongst the various empirical benefits such as improved immune response, lower blood pressure, oxytocin and endorphin release, the author highlights the simple recognition that patients appreciate touch. Mangione observes that along with physical touch, eye contact has also decreased in the exam room (this is not a necessary casualty of telehealth—providers can simulate eye contact by learning to look directly into the camera).
+In their JAMA viewpoint, @mangioneOutTouch2024 reflect on the power of touch that has become increasingly absent in medicine. Amongst the various empirical benefits such as improved immune response, lower blood pressure, oxytocin and endorphin release, the author highlights the simple recognition that patients appreciate touch. @mangioneOutTouch2024 observe that along with physical touch, eye contact has also decreased in the exam room (this is not a necessary casualty of telehealth—providers can simulate eye contact by learning to look directly into the camera).
 
 *Content quality*
 
@@ -201,7 +199,7 @@ Gamers use off-the shelf video and audio gear together with free, open-source so
 
 The current research on telemedicine shows it is a viable alternative for most of what occurs during regular visits. Gathering the patient's subjective complaints, conducting a history, performing a comprehensive exam, determining a likely diagnosis and prognosis, and providing patient education can all be done as well or better than in-person for many conditions, including spine pain [@ansaryVirtualPhysicalExam2021; @satinVirtualSpineExamination2021].
 
-Qualitative research on telemedicine offerings reveal generally positive feedback from patients and clinicans with the occasional mention of barriers to access or problems with connection [@hinmanSoundsBitCrazy2017; @ahmadPatientPerspectivesTelemedicine2023]. More guidelines are offering suggestions for including telemedicine in medical education curriculum [@daviesInternationalCoreCapability2021]. However, these consensuses are limited to basic concepts of patient safety, privacy, and basic digital literacy – all important, but insufficient to make significant improvements beyond the status quo.
+Qualitative research on telemedicine offerings reveal generally positive feedback from patients and clinicians with the occasional mention of barriers to access or problems with connection [@hinmanSoundsBitCrazy2017; @ahmadPatientPerspectivesTelemedicine2023]. More guidelines are offering suggestions for including telemedicine in medical education curriculum [@daviesInternationalCoreCapability2021]. However, these consensuses are limited to basic concepts of patient safety, privacy, and basic digital literacy – all important, but insufficient to make significant improvements beyond the status quo.
 
 ## Plan
 

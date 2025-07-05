@@ -18,7 +18,6 @@ tags:
   - academicwriting
 bibliography: references.bib
 image: 2025-ordinal-decades-axis-anchoring_3.jpeg
-
 ---
 
 # Ordinal decades and axis anchoring

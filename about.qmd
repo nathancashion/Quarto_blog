@@ -13,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/nathancashion
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0001-7987-367X
 ---
 
 ### About this blog

@@ -10,10 +10,13 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/nathancashion/
-      - icon: twitter
-        href: https://x.com/nathancashion
       - icon: linkedin
         href: https://www.linkedin.com/in/nathancashion/
+      - icon: twitter-x
+        href: https://x.com/nathancashion
+      - icon: journal-richtext
+        href: https://orcid.org/0000-0001-7987-367X
+
 format:
   html:
     respect-user-color-scheme: true
@@ -22,9 +25,8 @@ format:
       dark: litera-dark.scss
     css: styles.css
 site-url: https://quarto.nathancashion.com
-description: "Nathan Cashion's personal website and blog powered by Quarto."
+description: "Nathan Cashion's personal website and blog powered by [Quarto](https://quarto.org)."
 repo-url: https://github.com/nathancashion/Quarto_blog
-
 
 editor: visual
 
