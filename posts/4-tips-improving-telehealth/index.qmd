@@ -1,11 +1,13 @@
 ---
-Title: "4 Tips for Improving Telehealth Patient-Clinician Communication"
+title: 4 Tips for Improving Telehealth Patient-Clinician Communication
+alias: 
+description: A brief summary of a paper from Hirschtritt & Kelly (2024) on how to improve patient-clinician communication during video telehealth visits.
 date: 2024-10-13
-categories: [Tech, Research]
+categories: [Tech, Research]  
 author: 
   - name: Nathan Cashion
     url: https://nathancashion.com
-Published: True
+status: published
 URL: https://www.exploringchiropractic.com/blog/2024/10/4-tips-for-improving-telehealth-patient-clinician-communication
 Tags: 
   - telehealth
@@ -13,8 +15,6 @@ Tags:
   - communication
 bibliography: ../../references.bib
 ---
-
-# 4 Tips for Improving Telehealth Patient-Clinician Communication
 
 While telemedicine use has decreased slightly since the COVID pandemic, it is still much more common than it was before 2020.
 
@@ -38,10 +38,11 @@ I wrote my [master's capstone paper](../advancing-msk-telemedicine) on what thin
 
 I reviewed a couple hundred articles, but couldn't find anyone making the same suggestions I was exploring, especially the idea of simulated eye contact by looking directly at the camera lens. I began to feel a lot of doubt, worrying that my idea was too niche, technical, or obscure to be considered in healthcare (as many of my ideas are!).
 
-It was pretty validating then, that less than a month after I submitted my capstone project, this article was published in JAMA.
+It was pretty validating that, less than a month after I submitted my capstone project, this article was published in JAMA.
 
-@hirschtrittFourTipsImproving2024 highlight the concept of *augmented gaze*—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming.
+@hirschtrittFourTipsImproving2024 highlight the concept of *augmented gaze*—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming. But the technique is much, much older than that… It has been practiced by on-screen professionals (e.g. news anchors) for decades.
 
-But the technique is much, much older than that… It has been practiced by on-screen professionals (e.g. news anchors) for decades.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/33671002@N00/8246736532/" title="1987-08-Aug-SierraBlueCards_0035"><img src="https://live.staticflickr.com/8350/8246736532_d7afd5df33_z.jpg" width="640" height="433" alt="1987-08-Aug-SierraBlueCards_0035"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+*An historical image of Tom Brokaw demonstrates the augmented gaze in 1987.*
 
 It can be awkward at first, but gets better with practice. Using a teleprompter to display the incoming video right in front of the lens can make this feel much more natural.

@@ -1,0 +1,12 @@
+{
+  "pathToPandoc": "/opt/homebrew/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": true,
+  "pathToBibliography": "/Users/nately/Development/Quarto_blog/references.bib",
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true
+}

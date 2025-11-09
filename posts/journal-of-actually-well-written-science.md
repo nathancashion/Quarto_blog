@@ -21,13 +21,13 @@ image_alt: Screenshot of the Journal of Actually Well-written Science homepage, 
 
 I stumbled across [the blog](https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/) of [EtienneFD](https://etiennefd.com)[^1] and noticed how well the ideas align with my own thoughts had about journals and publishing.
 
-What first caught my eye, beyond the minimalistic theme, was the title of his most recent post–*‌[Platypus Paper, Rewritten](https://etiennefd.com/dgm/platypus-paper-rewritten/)*[^2] It's a proof of concept of his idea of "a science journal that focusses on readability."
+What first caught my eye, beyond the minimalistic theme, was the title of his most recent post–*‌[Platypus Paper, Rewritten](https://etiennefd.com/dgm/platypus-paper-rewritten/)*.[^2] It's a proof of concept of his idea of "a science journal that focusses on readability."
 
 > Science papers are boring. They’re boring even when they should be interesting. They’re awful at communicating their contents. They’re a chore to read. They’re work.
 
-The poor readability of scientific articles is something that has bothered me for a while. Initially, I assumed I just wasn't smart enough to understand the complicated structure and jargon. But after learning about research, earning 3 advanced degrees, and reading hundreds, if not thousands, of peer-reviewed articles, I'm more confident in saying the standard practice in scientific publishing could use a rethink. Whether it's [poor typography](https://x.com/nathancashion/status/1752848499006427439) choices, or lack of a [coherent narrative](https://youtu.be/ZXJIgvfTPaM?si=PrF8JvcluJgScCjI&t=2451), authors and editors seem to intentionally make their academic work [harder to read](https://www.youtube.com/shorts/Vo_-qbrke7U).
+This poor readability of scientific articles has also bothered me for a while. Initially, I assumed I just wasn't smart enough to understand the complicated structure and jargon. But after learning about research, earning 3 advanced degrees, and reading hundreds, if not thousands, of peer-reviewed articles, I'm more confident in saying the standard practice in scientific publishing needs to be rethought. Whether it's [poor typography](https://x.com/nathancashion/status/1752848499006427439) choices, or the lack of a [coherent narrative](https://youtu.be/ZXJIgvfTPaM?si=PrF8JvcluJgScCjI&t=2451), authors and editors seem to intentionally make their academic work [harder to read](https://www.youtube.com/shorts/Vo_-qbrke7U).
 
-Étienne began writing a series of scientific style guidelines outlining various ways papers could be made more readable. This led to starting JAWWS, a new journal of actually readable papers.[^3]
+Étienne began writing a series of [scientific style guidelines](https://etiennefd.com/dgm/proposal-for-a-new-scientific-writing-guide/) outlining various ways papers could be made more readable. This led to starting JAWWS, a new prototype journal of actually readable papers.[^3]
 
 His article on [abbreviations](https://etiennefd.com/dgm/science-style-guide-abbreviations/) in scientific articles was particularly enjoyable as it confirmed a personal bias of mine against TLAs.[^4]
 
@@ -35,7 +35,7 @@ And Étienne is in good company. Steven Pinker argues that abbreviations should 
 
 ![Quote from *Sense of Style* by Steven Pinker](/media/Abbreviations_SenseOfStyle.png)
 
-Paul Sylvia, author of *How to Write More* agrees, adding that abbreviations are more tedious than reading the original words over and over.
+Paul Sylvia, author of *[How to Write a Lot](https://amzn.to/49aDcIe)*, agrees, adding that abbreviations are more tedious than reading the original words over and over.
 
 ![Quote from *How to Write a Lot* by Paul Silvia](/media/Abbreviations_HowToWriteALot.png)
 

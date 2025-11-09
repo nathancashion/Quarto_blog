@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,18 +35,19 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-fc539113232677d296c547e50173fa21.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-e7ec7525f1f65a71ea53de5ab305c50e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-fc539113232677d296c547e50173fa21.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-99258d85ffddbd9841977770f8edb96b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-d6edc6876df1e6358ae506385f0156dc.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-99258d85ffddbd9841977770f8edb96b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -118,7 +119,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -315,6 +316,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Nathan Cashion</span>
     </a>
@@ -429,7 +432,7 @@ Nathan Cashion
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="UmFudCUyQ1NjaWVuY2U=" data-listing-date-sort="1748156400000" data-listing-file-modified-sort="1751417992886" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="818">
+<div class="quarto-post image-right" data-index="1" data-categories="UmFudCUyQ1NjaWVuY2U=" data-listing-date-sort="1748156400000" data-listing-file-modified-sort="1762647450508" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="817">
 <div class="thumbnail"><a href="./posts/ordinal-decades-and-axis-anchoring/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/ordinal-decades-and-axis-anchoring/2025-ordinal-decades-axis-anchoring_3.jpeg" class="thumbnail-image">
@@ -447,8 +450,8 @@ Nathan Cashion
 
 </div>
 <div class="delink listing-description"><a href="./posts/ordinal-decades-and-axis-anchoring/index.html" class="no-external">
-</a><p><a href="./posts/ordinal-decades-and-axis-anchoring/index.html" class="no-external">Nathan Cashion’s personal website and blog powered by </a><a href="https://quarto.org">Quarto</a>.</p>
-</div>
+<p>I explore how an improperly designed chart could have contributed to incorrectly concluding that women start menopause 10 years earlier than the data support.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="./posts/ordinal-decades-and-axis-anchoring/index.html" class="no-external">
@@ -461,7 +464,7 @@ Nathan Cashion
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="VGVjaCUyQ1Jlc2VhcmNo" data-listing-date-sort="1728802800000" data-listing-file-modified-sort="1751387000795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
+<div class="quarto-post image-right" data-index="2" data-categories="VGVjaCUyQ1Jlc2VhcmNo" data-listing-date-sort="1728802800000" data-listing-file-modified-sort="1762652181732" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="270">
 <div class="thumbnail"><a href="./posts/4-tips-improving-telehealth/index.html" class="no-external">
 
 <p class="card-img-top"><img src="posts/4-tips-improving-telehealth/4TipsImprovingTelehealthPatientClinicianCommunication_NY_WIDEslide-1.png"  class="thumbnail-image card-img"/></p>
@@ -479,8 +482,8 @@ Nathan Cashion
 
 </div>
 <div class="delink listing-description"><a href="./posts/4-tips-improving-telehealth/index.html" class="no-external">
-</a><p><a href="./posts/4-tips-improving-telehealth/index.html" class="no-external">Nathan Cashion’s personal website and blog powered by </a><a href="https://quarto.org">Quarto</a>.</p>
-</div>
+<p>A brief summary of a paper from Hirschtritt &amp; Kelly (2024) on how to improve patient-clinician communication during video telehealth visits.</p>
+</a></div>
 </div>
 <div class="metadata">
 <a href="./posts/4-tips-improving-telehealth/index.html" class="no-external">
@@ -493,7 +496,7 @@ Nathan Cashion
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1728802800000" data-listing-file-modified-sort="1751674521430" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="378">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1728802800000" data-listing-file-modified-sort="1762652589834" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="379">
 <div class="thumbnail"><a href="./posts/journal-of-actually-well-written-science.html" class="no-external">
 
 <img loading="lazy" src="./media/jawws.jpg" class="thumbnail-image">
@@ -645,13 +648,14 @@ Nathan Cashion
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

@@ -1,8 +1,9 @@
 ---
 title: Ordinal decades and axis anchoring
 alias:
+description: I explore how an improperly designed chart could have contributed to incorrectly concluding that women start menopause 10 years earlier than the data support.
 date: 2025-05-25
-author: 
+author:
   - name: Nathan Cashion
     email: nathan@cashion.com
     url: https://www.nathancashion.com
@@ -22,7 +23,7 @@ image: 2025-ordinal-decades-axis-anchoring_3.jpeg
 
 # Ordinal decades and axis anchoring
 
-*While I am a pedant and have strong opinions on grammar, I usually don't spend so much time on trite issues like this. But I awoke to my dog dry heaving at 2 a.m. and couldn't get back to sleep. After reading on my Kindle for a while, I eventually gave in to scrolling social media and came across this post. I guess these are the thoughts that go through my sleep-deprived head when there's nothing else to keep it occupied. The research paper in question is otherwise above my head but seems to be quite interesting and worth reading.*
+*While I am a pedant and have strong opinions on grammar, I usually don't spend so much time on trite issues like this. But I awoke to my dog dry-heaving at 2 a.m. and couldn't get back to sleep. After reading on my Kindle for a while, I eventually gave in to scrolling social media and came across this post. I guess these are the thoughts that go through my sleep-deprived head when there's nothing else to keep it occupied. The research paper in question is otherwise above my head but seems to be quite interesting and worth reading.*
 
 [A tweet](https://x.com/jacksonfyfe/status/1922972089071337763?s=61&t=hBkCbqyBv1xxnaE0129BzQ) about decreases in muscle strength for aging women caught my eye.
 
