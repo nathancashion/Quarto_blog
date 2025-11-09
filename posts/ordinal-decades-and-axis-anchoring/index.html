@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Nathan Cashion">
 <meta name="dcterms.date" content="2025-05-25">
-<meta name="description" content="Nathan Cashion’s personal website and blog powered by Quarto.">
+<meta name="description" content="I explore how an improperly designed chart could have contributed to incorrectly concluding that women start menopause 10 years earlier than the data support.">
 
 <title>Ordinal decades and axis anchoring – Nathan Cashion</title>
 <style>
@@ -55,18 +55,19 @@ div.csl-indent {
 <meta name="quarto:offset" content="../../">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-fc539113232677d296c547e50173fa21.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-e7ec7525f1f65a71ea53de5ab305c50e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../../site_libs/bootstrap/bootstrap-fc539113232677d296c547e50173fa21.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-99258d85ffddbd9841977770f8edb96b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-d6edc6876df1e6358ae506385f0156dc.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-99258d85ffddbd9841977770f8edb96b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -277,6 +278,8 @@ div.csl-indent {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Nathan Cashion</span>
     </a>
@@ -326,7 +329,7 @@ div.csl-indent {
       <h1 class="title">Ordinal decades and axis anchoring</h1>
                   <div>
         <div class="description">
-          Nathan Cashion’s personal website and blog powered by <a href="https://quarto.org">Quarto</a>.
+          I explore how an improperly designed chart could have contributed to incorrectly concluding that women start menopause 10 years earlier than the data support.
         </div>
       </div>
                           <div class="quarto-categories">
@@ -371,7 +374,7 @@ div.csl-indent {
 
 <section id="ordinal-decades-and-axis-anchoring" class="level1">
 <h1>Ordinal decades and axis anchoring</h1>
-<p><em>While I am a pedant and have strong opinions on grammar, I usually don’t spend so much time on trite issues like this. But I awoke to my dog dry heaving at 2 a.m. and couldn’t get back to sleep. After reading on my Kindle for a while, I eventually gave in to scrolling social media and came across this post. I guess these are the thoughts that go through my sleep-deprived head when there’s nothing else to keep it occupied. The research paper in question is otherwise above my head but seems to be quite interesting and worth reading.</em></p>
+<p><em>While I am a pedant and have strong opinions on grammar, I usually don’t spend so much time on trite issues like this. But I awoke to my dog dry-heaving at 2 a.m. and couldn’t get back to sleep. After reading on my Kindle for a while, I eventually gave in to scrolling social media and came across this post. I guess these are the thoughts that go through my sleep-deprived head when there’s nothing else to keep it occupied. The research paper in question is otherwise above my head but seems to be quite interesting and worth reading.</em></p>
 <p><a href="https://x.com/jacksonfyfe/status/1922972089071337763?s=61&amp;t=hBkCbqyBv1xxnaE0129BzQ">A tweet</a> about decreases in muscle strength for aging women caught my eye.</p>
 <blockquote class="blockquote">
 <p>Women experience faster, earlier muscle decline with age. New data from @steven_obryan and co. in women aged 18-80 found the steepest declines begin in the 4th decade, around menopause.<br>
@@ -512,13 +515,14 @@ O’Bryan, Steven J., Annabel Critchlow, Cas J. Fuchs, Danielle Hiam, and Séver
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

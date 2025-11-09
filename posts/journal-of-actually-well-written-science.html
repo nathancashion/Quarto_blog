@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,18 +35,19 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-fc539113232677d296c547e50173fa21.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-e7ec7525f1f65a71ea53de5ab305c50e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-fc539113232677d296c547e50173fa21.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-99258d85ffddbd9841977770f8edb96b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-d6edc6876df1e6358ae506385f0156dc.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-99258d85ffddbd9841977770f8edb96b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -257,6 +258,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Nathan Cashion</span>
     </a>
@@ -354,12 +357,12 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 <p>I stumbled across <a href="https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/">the blog</a> of <a href="https://etiennefd.com">EtienneFD</a><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> and noticed how well the ideas align with my own thoughts had about journals and publishing.</p>
-<p>What first caught my eye, beyond the minimalistic theme, was the title of his most recent post–<em>‌<a href="https://etiennefd.com/dgm/platypus-paper-rewritten/">Platypus Paper, Rewritten</a></em><a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> It’s a proof of concept of his idea of “a science journal that focusses on readability.”</p>
+<p>What first caught my eye, beyond the minimalistic theme, was the title of his most recent post–<em>‌<a href="https://etiennefd.com/dgm/platypus-paper-rewritten/">Platypus Paper, Rewritten</a></em>.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> It’s a proof of concept of his idea of “a science journal that focusses on readability.”</p>
 <blockquote class="blockquote">
 <p>Science papers are boring. They’re boring even when they should be interesting. They’re awful at communicating their contents. They’re a chore to read. They’re work.</p>
 </blockquote>
-<p>The poor readability of scientific articles is something that has bothered me for a while. Initially, I assumed I just wasn’t smart enough to understand the complicated structure and jargon. But after learning about research, earning 3 advanced degrees, and reading hundreds, if not thousands, of peer-reviewed articles, I’m more confident in saying the standard practice in scientific publishing could use a rethink. Whether it’s <a href="https://x.com/nathancashion/status/1752848499006427439">poor typography</a> choices, or lack of a <a href="https://youtu.be/ZXJIgvfTPaM?si=PrF8JvcluJgScCjI&amp;t=2451">coherent narrative</a>, authors and editors seem to intentionally make their academic work <a href="https://www.youtube.com/shorts/Vo_-qbrke7U">harder to read</a>.</p>
-<p>Étienne began writing a series of scientific style guidelines outlining various ways papers could be made more readable. This led to starting JAWWS, a new journal of actually readable papers.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<p>This poor readability of scientific articles has also bothered me for a while. Initially, I assumed I just wasn’t smart enough to understand the complicated structure and jargon. But after learning about research, earning 3 advanced degrees, and reading hundreds, if not thousands, of peer-reviewed articles, I’m more confident in saying the standard practice in scientific publishing needs to be rethought. Whether it’s <a href="https://x.com/nathancashion/status/1752848499006427439">poor typography</a> choices, or the lack of a <a href="https://youtu.be/ZXJIgvfTPaM?si=PrF8JvcluJgScCjI&amp;t=2451">coherent narrative</a>, authors and editors seem to intentionally make their academic work <a href="https://www.youtube.com/shorts/Vo_-qbrke7U">harder to read</a>.</p>
+<p>Étienne began writing a series of <a href="https://etiennefd.com/dgm/proposal-for-a-new-scientific-writing-guide/">scientific style guidelines</a> outlining various ways papers could be made more readable. This led to starting JAWWS, a new prototype journal of actually readable papers.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
 <p>His article on <a href="https://etiennefd.com/dgm/science-style-guide-abbreviations/">abbreviations</a> in scientific articles was particularly enjoyable as it confirmed a personal bias of mine against TLAs.<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
 <p>And Étienne is in good company. Steven Pinker argues that abbreviations should be avoided altogether.</p>
 <div class="quarto-figure quarto-figure-center">
@@ -368,7 +371,7 @@ ul.task-list li input[type="checkbox"] {
 <figcaption>Quote from <em>Sense of Style</em> by Steven Pinker</figcaption>
 </figure>
 </div>
-<p>Paul Sylvia, author of <em>How to Write More</em> agrees, adding that abbreviations are more tedious than reading the original words over and over.</p>
+<p>Paul Sylvia, author of <em><a href="https://amzn.to/49aDcIe">How to Write a Lot</a></em>, agrees, adding that abbreviations are more tedious than reading the original words over and over.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="../media/Abbreviations_HowToWriteALot.png" class="img-fluid figure-img"></p>
@@ -455,13 +458,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
