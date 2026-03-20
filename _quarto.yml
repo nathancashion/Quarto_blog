@@ -24,9 +24,24 @@ format:
       light: litera
       dark: litera-dark.scss
     css: styles.css
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://unpkg.com/littlefoot@4.1.3/dist/littlefoot.css">
+    include-after-body:
+      - text: |
+          <script src="https://unpkg.com/littlefoot@4.1.3/dist/littlefoot.js" type="application/javascript"></script>
+          <script type="application/javascript">
+            littlefoot.littlefoot({
+              buttonTemplate: '<button class="littlefoot__button" id="<% reference %>" title="Footnote <% number %>"><% number %></button>'
+            });
+            document.querySelectorAll('#quarto-appendix .littlefoot--print').forEach(function(el) {
+              el.classList.remove('littlefoot--print');
+            });
+          </script>
 site-url: https://quarto.nathancashion.com
 description: "Nathan Cashion's personal website and blog powered by [Quarto](https://quarto.org)."
 repo-url: https://github.com/nathancashion/Quarto_blog
 
 editor: visual
 
+bibliography: bibliography/zotero.bib

@@ -53,6 +53,7 @@ However, video calls leave much to be wanted, especially for conditions that are
 
 ::: column-page
 <iframe width="960" height="540" src="https://www.youtube-nocookie.com/embed/Obq0FGVvbZ8?si=LrEqlRQS7dMFKDal" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
 </iframe>
 :::
 
@@ -148,12 +149,7 @@ Most of the research concerning engagement in telemedicine refers to the long-te
 
 *Application of intimacy theory*
 
-@liuHowCanLive2021 examined viewer engagement in ecommerce streaming, where a presenter reviews or discusses products with a goal to sell to their audience. The authors promote *intimacy theory*—the idea that acting in an authentic and transparent manner builds trust and intimacy—as a model for engaging live viewers. Several suggestions are offered. Live streamers should:
--   respond quickly to viewers comments or questions
--   present a consistent and authentic personal brand
--   demonstrate attitudinal similarity by mirroring viewer's beliefs or opinions
--   speak directly to viewers
--   simulate direct eye contact by looking directly into the camera.
+@liuHowCanLive2021 examined viewer engagement in ecommerce streaming, where a presenter reviews or discusses products with a goal to sell to their audience. The authors promote *intimacy theory*—the idea that acting in an authentic and transparent manner builds trust and intimacy—as a model for engaging live viewers. Several suggestions are offered. Live streamers should: - respond quickly to viewers comments or questions - present a consistent and authentic personal brand - demonstrate attitudinal similarity by mirroring viewer's beliefs or opinions - speak directly to viewers - simulate direct eye contact by looking directly into the camera.
 
 @baroniStateArtTelerehabilitation2023 emphasized this last point stating that communication is the most powerful tool for clinicians to use in telemedicine consults. Looking directly into the camera helps establish an emotional connection and build trust.
 
@@ -193,7 +189,7 @@ Another approach to managing musculoskeletal conditions from a distance involves
 
 These initiatives demonstrate, however, that to make progress in healthcare, it is often helpful to look to outsiders who can reframe the problem [@khoslaventuresWinningOutsiderBuilding2023; @staeritzHowCanHealthcare2021]. Let's look to another industry that has made live, synchronous video engaging and popular – video game streaming.
 
-Gamers use off-the shelf video and audio gear together with free, open-source software to produce high-definition, engaging live-streams from their bedroom. According to StreamYard [@HowMuchMoney2023], these productions draw millions of viewers and earn top streamers a healthy six-figure monthly income. This prompts the question: 
+Gamers use off-the shelf video and audio gear together with free, open-source software to produce high-definition, engaging live-streams from their bedroom. According to StreamYard [@HowMuchMoney2023], these productions draw millions of viewers and earn top streamers a healthy six-figure monthly income. This prompts the question:
 
 > **What can telemedicine providers learn from live streamers?**
 
@@ -243,7 +239,7 @@ Additionally, a properly prepared space will take acoustics into account. The fe
 
 Health inequality is an important issue in healthcare, particularly among people in low- and middle-income countries. Unfortunately, the very nature of digital health tools excludes a significant portion of the population who most need access to care. The World Health Organization reports that one third of the global population are in need of rehabilitation services [@gimiglianoWorldHealthOrganization2017]. The majority of these individuals live in areas with lower healthcare resources. They also lack the health and digital literacy needed to be able to participate in telemedicine activities [@fernandesWhatExtentCan2021].
 
-The economic and social barriers to telemedicine are difficult to address. And my proposal is not a solution to them. In fact, in the beginning it may actually lead to greater disparity, unfortunately. There is increased cost and necessary training on the part of providers. But my hope is that by pushing the technology forward and making it more effective now, it will be easier to bring it to a wider audience in the near future. 
+The economic and social barriers to telemedicine are difficult to address. And my proposal is not a solution to them. In fact, in the beginning it may actually lead to greater disparity, unfortunately. There is increased cost and necessary training on the part of providers. But my hope is that by pushing the technology forward and making it more effective now, it will be easier to bring it to a wider audience in the near future.
 
 ## Recommendations
 
