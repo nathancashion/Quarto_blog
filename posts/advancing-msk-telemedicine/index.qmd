@@ -14,6 +14,7 @@ author:
         state: MO
         url: https://www.logan.edu
         corresponding: true
+
 format:
   html:
     toc: true

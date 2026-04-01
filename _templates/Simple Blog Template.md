@@ -2,11 +2,12 @@
 title: 
 alias:
 date: 
+date-modified: 
 description: 
 author: 
   - name: Nathan Cashion
     url: https://www.nathancashion.com
-status: draft
+draft: true
 URL: 
 categories:
   - Science

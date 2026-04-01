@@ -12,10 +12,43 @@ website:
         href: https://github.com/nathancashion/
       - icon: linkedin
         href: https://www.linkedin.com/in/nathancashion/
+      - icon: bluesky
+        href: https://bsky.app/profile/nathancashion.bsky.social
+      - icon: threads
+        href: https://www.threads.com/@nathancashion
+      - icon: mastodon
+        href: https://mastodon.social/@nathancashion
       - icon: twitter-x
         href: https://x.com/nathancashion
-      - icon: journal-richtext
-        href: https://orcid.org/0000-0001-7987-367X
+      - icon: rss
+        href: index.xml
+  site-url: https://quarto.nathancashion.com
+  description: "Nathan Cashion's experimental website and blog powered by [Quarto](https://quarto.org)."
+  page-navigation: true
+  draft-mode: unlinked
+  twitter-card: true
+  page-footer:
+    background: light
+    center:
+        - icon: linkedin
+          href: https://linkedin.com/in/nathancashion
+        - icon: github
+          href: https://github.com/nathancashion
+        - icon: mortarboard
+          href: https://orcid.org/0000-0001-7987-367X
+        - icon: bluesky
+          href: https://bsky.app/profile/nathancashion.bsky.social
+        - icon: threads
+          href: https://www.threads.com/@nathancashion
+        - icon: mastodon
+          href: https://mastodon.social/@nathancashion
+        - icon: twitter-x
+          href: https://x.com/nathancashion
+        - icon: rss
+          text: Subscribe
+          href: index.xml
+
+repo-url: https://github.com/nathancashion/Quarto_blog
 
 format:
   html:
@@ -38,9 +71,7 @@ format:
               el.classList.remove('littlefoot--print');
             });
           </script>
-site-url: https://quarto.nathancashion.com
-description: "Nathan Cashion's personal website and blog powered by [Quarto](https://quarto.org)."
-repo-url: https://github.com/nathancashion/Quarto_blog
+
 
 editor: visual
 

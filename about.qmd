@@ -4,18 +4,26 @@ image: NathanCashionHeadshot.jpeg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: X
-      href: https://x.com/nathancashion
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/nathancashion
     - icon: github
       text: Github
       href: https://github.com/nathancashion
-    - icon: orcid
+    - icon: mortarboard
       text: ORCID
       href: https://orcid.org/0000-0001-7987-367X
+    - icon: bluesky
+      href: https://bsky.app/profile/nathancashion.bsky.social
+    - icon: threads
+      href: https://www.threads.com/@nathancashion
+    - icon: mastodon
+      href: https://mastodon.social/@nathancashion
+    - icon: twitter-x
+      href: https://x.com/nathancashion
+    - icon: rss
+      text: Subscribe
+      href: index.xml
 ---
 
 ### About this blog
@@ -24,9 +32,9 @@ I'm a chiropractor by training with a recent M.S. in Health Informatics and data
 
 My interests include:
 
--   digital health
--   health IT
--   telehealth/telemedicine
--   data visualization
--   web publishing
--   knowledge transfer
+- digital health
+- health IT
+- telehealth/telemedicine
+- data visualization
+- web publishing
+- knowledge transfer

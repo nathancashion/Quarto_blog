@@ -13,8 +13,9 @@ categories:
 tags:
   - conferences
 lightbox: true
-image: https://www.ebpi.uzh.ch/dam/jcr:c427eb5d-26c0-4254-aaea-86c5d59bbd44/banner_uzh_back-and-neck_2025_2480x1495px1.4MB.jpg
+image: /media/banner_uzh_back-and-neck_2025.jpg
 ---
+![IBNPF Banner Image](/media/banner_uzh_back-and-neck_2025.jpg)
 
 My LinkedIn feed has been filling me with green-eyed envy because so many of my connections attended the [International Back and Neck Pain Forum](https://www.ebpi.uzh.ch/en/activities/ibnpforum2025.html) this week in Davos, Switzerland.
 
