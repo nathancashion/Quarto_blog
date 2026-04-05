@@ -6,6 +6,7 @@ date: 2024-10-13
 categories:
 author: Nathan Cashion
 status: published
+draft: false
 URL: https://quarto.nathancashion.com/journal-of-actually-well-written-science
 tags:
   - science
@@ -16,7 +17,7 @@ tags:
 image: ../media/jawws.jpg
 image_alt: Screenshot of the Journal of Actually Well-written Science homepage, featuring a platypus illustration and a list of articles.
 ---
-# Journal of Actually Well-written Science
+
 ![The Journal of Actually Well-written Science homepage](../media/jawws.jpg)
 
 I stumbled across [the blog](https://etiennefd.com/dgm/the-journal-of-actually-well-written-science/) of [EtienneFD](https://etiennefd.com)[^1] and noticed how well the ideas align with my own thoughts had about journals and publishing.

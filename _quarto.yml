@@ -23,7 +23,7 @@ website:
       - icon: rss
         href: index.xml
   site-url: https://quarto.nathancashion.com
-  description: "Nathan Cashion's experimental website and blog powered by [Quarto](https://quarto.org)."
+  description: "Nathan Cashion's experimental blog powered by [Quarto](https://quarto.org)."
   page-navigation: true
   draft-mode: unlinked
   twitter-card: true
@@ -53,7 +53,7 @@ repo-url: https://github.com/nathancashion/Quarto_blog
 format:
   html:
     respect-user-color-scheme: true
-    theme: 
+    theme:
       light: litera
       dark: litera-dark.scss
     css: styles.css

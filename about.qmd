@@ -2,7 +2,7 @@
 title: "About"
 image: NathanCashionHeadshot.jpeg
 about:
-  template: jolla
+  template: solana
   links:
     - icon: linkedin
       text: LinkedIn

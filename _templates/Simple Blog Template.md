@@ -1,8 +1,8 @@
 ---
 title: 
 alias:
-date: 
-date-modified: 
+date: {{date}}
+date-modified: "{{date}} {{time}}"
 description: 
 author: 
   - name: Nathan Cashion

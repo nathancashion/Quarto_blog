@@ -8,9 +8,39 @@
 <title>Nathan Cashion</title>
 <link>https://quarto.nathancashion.com/</link>
 <atom:link href="https://quarto.nathancashion.com/index.xml" rel="self" type="application/rss+xml"/>
-<description>Nathan Cashion&#39;s experimental website and blog powered by [Quarto](https://quarto.org).</description>
+<description>Nathan Cashion&#39;s experimental blog powered by [Quarto](https://quarto.org).</description>
 <generator>quarto-1.9.36</generator>
-<lastBuildDate>Wed, 18 Mar 2026 14:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>Autistics are disparaged Buddhists</title>
+  <dc:creator>Nathan Cashion</dc:creator>
+  <link>https://quarto.nathancashion.com/posts/autistics-disparaged-Buddhists.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<p><a href="https://tylercowen.com">Tyler Cowen</a>, in <em><a href="https://www.goodreads.com/book/show/7898110-the-age-of-the-infovore?from_search=true&amp;from_srp=true&amp;qid=rRYIWrhtYI&amp;rank=1">The Age of the Infovore</a></em>:</p>
+<blockquote class="blockquote">
+<p><strong>[A]utistics are the culmination of Buddhist thought and indeed Buddhist practice</strong>, even though few of them are following Buddhism in any deliberate sense. <strong>Oddly we call these tendencies glorious when they are affiliated with Eastern religion but we call them pathological, or we think of them as just plain weird, when they are performed by autistics.</strong></p>
+</blockquote>
+<p><a href="../media/TylerCowen_Age_Infovore_Autistics_Buddhism.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://quarto.nathancashion.com/media/TylerCowen_Age_Infovore_Autistics_Buddhism.png" class="img-fluid"></a></p>
+<p>This brought to mind the art film, <em>Samsara</em> (<a href="https://www.imdb.com/title/tt0770802/">IMDB</a>), which depicts a group of Tibetan monks tediously creating a beautiful mosaic of colored sand over many days, only to blow it away once finished.</p>
+<p><a href="../media/Samsara_Buddhist_monk_still.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://quarto.nathancashion.com/media/Samsara_Buddhist_monk_still.png" class="img-fluid"></a></p>
+<p>The effect at the end of the film was powerful—an illustration of true non-attachment by allowing their work to be destroyed in seconds.</p>
+<p>And yet, the dedication of hours over the preceding days could be seen as a pointless waste of time. Don’t we also think the same of autistics who spend hours <a href="https://www.science.org/content/article/man-who-memorized-pi">memorizing 𝛑</a> to twenty two thousand digits or years obsessing over trains?</p>
+<p>What an interesting observation of that double standard.</p>
+
+
+
+ ]]></description>
+  <category>Books</category>
+  <guid>https://quarto.nathancashion.com/posts/autistics-disparaged-Buddhists.html</guid>
+  <pubDate>Tue, 31 Mar 2026 14:00:00 GMT</pubDate>
+  <media:content url="https://quarto.nathancashion.com/media/Samsara_Buddhist_monk_still_playhead.png" medium="image" type="image/png" height="66" width="144"/>
+</item>
 <item>
   <title>Littlefoot Test</title>
   <dc:creator>Nathan Cashion</dc:creator>
@@ -262,8 +292,6 @@ Hirschtritt, Matthew E., and Stephanie Kelly. 2024. <span>“Four <span>Tips</sp
 
 
 
-<section id="journal-of-actually-well-written-science" class="level1">
-<h1>Journal of Actually Well-written Science</h1>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://quarto.nathancashion.com/media/jawws.jpg" class="img-fluid figure-img"></p>
@@ -295,7 +323,6 @@ Hirschtritt, Matthew E., and Stephanie Kelly. 2024. <span>“Four <span>Tips</sp
 <p>While Étienne hasn’t written much lately<sup>5</sup>, Mike Morrison of #betterposter fame has started <a href="https://scienceux.org">a new journal</a> from the same cloth—this one focused on better UX design in scientific publishing.</p>
 
 
-</section>
 
 
 <div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
@@ -368,7 +395,7 @@ Hirschtritt, Matthew E., and Stephanie Kelly. 2024. <span>“Four <span>Tips</sp
 <p>I conducted a series of searches using EBSCOHost. A broad search for <code>"telehealth"</code> returned 180,725 results. Adding the terms <code>"telemedicine OR telehealth OR telerehab*"</code> reduced my results to 800+. I further limited the search to relevant papers using the term <code>"musculoskeletal"</code>. As technology is a rapidly advancing field, I limited the Publication Date to between 2019-2024. Source types were restricted to Academic Journals and Reviews.</p>
 <p>Searches for <code>"telehealth AND engagement"</code> provided limited results relevant to the current topic. I conducted further searches via PubMed on engagement in live streaming applications, such as video games and ecommerce with the terms <code>"live streaming AND engagement"</code>. Results were varied and I narrowed the selection by scanning titles and abstracts for relevance, then reviewing related papers and papers cited by or citing the current paper.</p>
 <p>I included other articles found via Google Scholar and Google Search that were relevant. Though they may not be peer-reviewed, they are authored by industry experts.</p>
-<p>When new topics or keywords appeared frequently in my initial results, I explored them further by searching the same databases. I also used artificial intelligence research assistants <span class="citation" data-cites="elicitElicitAIResearch2024 researchrabbitResearchRabbit2024">(Elicit 2024; Research Rabbit 2024)</span> to suggest other articles or related topics.</p>
+<p>When new topics or keywords appeared frequently in my initial results, I explored them further by searching the same databases. I also used the artificial intelligence research assistants <a href="https://elicit.com">Elicit</a> and <a href="https://researchrabbit.ai">ResearchRabbit</a> to suggest other articles or related topics.</p>
 </section>
 <section id="literature-review" class="level3">
 <h3 class="anchored" data-anchor-id="literature-review">Literature Review</h3>
@@ -456,8 +483,8 @@ Hirschtritt, Matthew E., and Stephanie Kelly. 2024. <span>“Four <span>Tips</sp
 </figure>
 </div>
 <p>While Peloton is a high-end luxury fitness brand, there are elements to the production that can be applied to telemedicine. Clinicians can be trained to build a stronger connection with their patients over video calls by incorporating the elements of authenticity and looking directly into the camera. Using additional software and hardware, clinicians can choose from different camera angles that allow them to demonstrate full-body movements with side- or front-views as well as returning to a standard, close-up view when listening to or speaking to the patient. This software can also be configured to seamlessly show additional content such as radiographs that can be annotated in real-time or data-visualizations showing the patient’s progress with treatment.</p>
-<p>Virtual webcam software is one option to enhance the telemedicine experience. Open Broadcaster Software (OBS) is a free and open-source cross-platform application built for video live streaming <span class="citation" data-cites="OpenBroadcasterSoftware">(<em>Open <span>Broadcaster Software</span></em>, n.d.)</span>. eCamm Live is a commercial alternative that offers a shorter learning curve and more refined user-interface, but is only available for macOS <span class="citation" data-cites="EcammLive">(<em>Ecamm <span>Live</span></em>, n.d.)</span>. Both applications have a similar feature set, including the ability to build custom ‘scenes’ with a particular layout of video, audio, and screen sources. The operator (in this case a telemedicine provider) can switch between these scenes on the fly with the push of a button. For example, a provider can start with a simple close-up angle to open the call, switch to a full-body angle while demonstrating clinical exam procedures, then switch to a scene with both close-up video and a window capture showing a digital anatomical model of a body part of interest.</p>
-<p>Another popular tool in live streaming is the Elgato StreamDeck, a small keypad with customizeable buttons and software that integrates with various applications including OBS and eCamm Live <span class="citation" data-cites="StreamDeckMK2">(<span>“Stream <span>Deck MK</span>.2,”</span> n.d.)</span>. The StreamDeck can act as a hardware controller for OBS or eCamm to switch between scenes or trigger animations or other actions on the video call. Elgato also makes the Prompter, a small display with a one-way mirror that acts as a teleprompter. This—or other teleprompter devices—can be used to place the incoming video of a patient directly in front of the camera lens, making it easy for the provider to maintain eye contact throughout the call.</p>
+<p>Virtual webcam software is one option to enhance the telemedicine experience. <a href="https://obsproject.com">Open Broadcaster Software</a> (OBS) is a free and open-source cross-platform application built for video live streaming. <a href="https://ecamm.com">eCamm Live</a> is a commercial alternative that offers a shorter learning curve and more refined user-interface, but is only available for macOS. Both applications have a similar feature set, including the ability to build custom ‘scenes’ with a particular layout of video, audio, and screen sources. The operator (in this case a telemedicine provider) can switch between these scenes on the fly with the push of a button. For example, a provider can start with a simple close-up angle to open the call, switch to a full-body angle while demonstrating clinical exam procedures, then switch to a scene with both close-up video and a window capture showing a digital anatomical model of a body part of interest.</p>
+<p>Another popular tool in live streaming is the <a href="https://elgato.com/streamdeck">Elgato StreamDeck</a>, a small keypad with customizeable buttons and software that integrates with various applications including OBS and eCamm Live. The StreamDeck can act as a hardware controller for OBS or eCamm to switch between scenes or trigger animations or other actions on the video call. Elgato also makes the Prompter, a small display with a one-way mirror that acts as a teleprompter. This—or other teleprompter devices—can be used to place the incoming video of a patient directly in front of the camera lens, making it easy for the provider to maintain eye contact throughout the call.</p>
 <p>Combining these tools with a variety of options for additional cameras, lighting, and audio equipment can allow a provider to create a powerful telemedicine studio. Paired with clinician training to take advantage of these new tools and engage the patient effectively, this set-up can enhance the quality of telemedicine video calls.</p>
 <section id="key-uncertainties" class="level3">
 <h3 class="anchored" data-anchor-id="key-uncertainties">Key Uncertainties</h3>
@@ -520,12 +547,6 @@ Bryant, Kenzie. 2020. <span>“<span>‘<span>There</span>’s an <span>Intimacy
 </div>
 <div id="ref-daviesInternationalCoreCapability2021" class="csl-entry">
 Davies, Luke, Rana S Hinman, Trevor Russell, et al. 2021. <span>“An International Core Capability Framework for Physiotherapists to Deliver Quality Care via Videoconferencing: A <span>Delphi</span> Study.”</span> <em>Journal of Physiotherapy</em> 67 (4): 291–97. <a href="https://doi.org/10.1016/j.jphys.2021.09.001">https://doi.org/10.1016/j.jphys.2021.09.001</a>.
-</div>
-<div id="ref-EcammLive" class="csl-entry">
-<em>Ecamm <span>Live</span></em>. n.d. Ecamm Network, LLC.
-</div>
-<div id="ref-elicitElicitAIResearch2024" class="csl-entry">
-Elicit. 2024. <em>Elicit: <span>The AI Research Assistant</span></em>.
 </div>
 <div id="ref-ernstzenYouMustUnderstand2022" class="csl-entry">
 Ernstzen, Dawn, Janet Keet, Kerry-Ann Louw, et al. 2022. <span>“"<span>So</span>, You Must Understand That That Group Changed Everything": Perspectives on a Telehealth Group Intervention for Individuals with Chronic Pain.”</span> <em>BMC Musculoskeletal Disorders</em> (England) 23 (1): 538. <a href="https://doi.org/10.1186/s12891-022-05467-7">https://doi.org/10.1186/s12891-022-05467-7</a>.
@@ -599,12 +620,6 @@ Monachelli, Rebecca, Sharon Watkins Davis, Allison Barnard, Michelle Longmire, J
 <div id="ref-ohAgreementConcurrentValidity2024" class="csl-entry">
 Oh, David, Daphne To, Melissa Corso, Kent Murnaghan, Hainan Yu, and Carol Cancelliere. 2024. <span>“Agreement and Concurrent Validity Between Telehealth and in-Person Diagnosis of Musculoskeletal Conditions: A Systematic Review.”</span> <em>Chiropractic &amp; Manual Therapies</em> 32 (1): 21. <a href="https://doi.org/10.1186/s12998-024-00542-3">https://doi.org/10.1186/s12998-024-00542-3</a>.
 </div>
-<div id="ref-OpenBroadcasterSoftware" class="csl-entry">
-<em>Open <span>Broadcaster Software</span></em>. n.d.
-</div>
-<div id="ref-researchrabbitResearchRabbit2024" class="csl-entry">
-Research Rabbit. 2024. <em>Research <span>Rabbit</span></em>.
-</div>
 <div id="ref-saragiottoCanYouBe2022" class="csl-entry">
 Saragiotto, Bruno T., Louise F. Sandal, and Jan Hartvigsen. 2022. <span>“Can You Be a Manual Therapist Without Using Your Hands?”</span> <em>Chiropractic &amp; Manual Therapies</em> 30 (1): 48. <a href="https://doi.org/10.1186/s12998-022-00457-x">https://doi.org/10.1186/s12998-022-00457-x</a>.
 </div>
@@ -622,9 +637,6 @@ Sisson, Paul. 2024. <span>“Is <span>Apple</span>’s New <span>Vision Pro</spa
 </div>
 <div id="ref-staeritzHowCanHealthcare2021" class="csl-entry">
 Staeritz, Felix. 2021. <span>“How <span>Can The Healthcare Industry Solve Innovation Inertia</span>?”</span> <em>Forbes</em>, January.
-</div>
-<div id="ref-StreamDeckMK2" class="csl-entry">
-<span>“Stream <span>Deck MK</span>.2.”</span> n.d. In <em>Elgato</em>. Https://www.elgato.com/us/en/p/stream-deck-mk2-black.
 </div>
 <div id="ref-TelehealthHereStay2021" class="csl-entry">
 <span>“Telehealth Is Here to Stay.”</span> 2021. <em>Nature Medicine</em> 27 (7): 1121–21. <a href="https://doi.org/10.1038/s41591-021-01447-x">https://doi.org/10.1038/s41591-021-01447-x</a>.
