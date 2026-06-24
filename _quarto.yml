@@ -53,9 +53,9 @@ repo-url: https://github.com/nathancashion/Quarto_blog
 format:
   html:
     respect-user-color-scheme: true
-    theme:
-      light: litera
-      dark: litera-dark.scss
+    theme: 
+      light: [litera, typography.scss]
+      dark: [litera-dark.scss, typography.scss]
     css: styles.css
     include-in-header:
       - text: |

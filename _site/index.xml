@@ -9,8 +9,46 @@
 <link>https://quarto.nathancashion.com/</link>
 <atom:link href="https://quarto.nathancashion.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Nathan Cashion&#39;s experimental blog powered by [Quarto](https://quarto.org).</description>
-<generator>quarto-1.9.36</generator>
-<lastBuildDate>Tue, 31 Mar 2026 14:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Mon, 22 Jun 2026 14:00:00 GMT</lastBuildDate>
+<item>
+  <title>Self-identifying as a chiropractor but not a Mormon</title>
+  <dc:creator>Nathan Cashion</dc:creator>
+  <link>https://quarto.nathancashion.com/posts/self-identifying-as-chiropractor-not-mormon.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+<blockquote class="blockquote">
+<p>Other jobs might make demands on your skills, but if you are deficient you can do something about it. A lumberjack or a musician can improve with practice: try harder. But lumberjacks and musicians are not required to believe.</p>
+<p><cite>– <span class="citation" data-cites="dawkinsBooksFurnishLife2021">Dawkins (2021)</span></cite></p>
+</blockquote>
+<p>This is as good an explanation as any other for why I continue to identify as a chiropractor but not a Mormon.</p>
+<p>To be a Mormon, <a href="https://youtu.be/GVJgmp2Tc2s?si=aFfmq5az9i06tS7V">you must believe</a>.</p>
+<p>To be a chiropractor does not require belief… al least, not anymore.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../media/BooksDoFurnishLifeDawkins_dark.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Quote from Richard Dawkins"><img src="https://quarto.nathancashion.com/media/BooksDoFurnishLifeDawkins_dark.png" class="img-fluid figure-img" alt="Quote from Richard Dawkins"></a></p>
+<figcaption>Quote from Richard Dawkins</figcaption>
+</figure>
+</div>
+
+
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent">
+<div id="ref-dawkinsBooksFurnishLife2021" class="csl-entry">
+Dawkins, Richard. 2021. <em>Books Do Furnish a Life: An Electrifying Celebration of Science Writing</em>. Edited by Gillian Somerscales. Bantam Press. <a href="https://amzn.to/4oFmPcc">https://amzn.to/4oFmPcc</a>.
+</div>
+</div></section></div> ]]></description>
+  <category>Science</category>
+  <guid>https://quarto.nathancashion.com/posts/self-identifying-as-chiropractor-not-mormon.html</guid>
+  <pubDate>Mon, 22 Jun 2026 14:00:00 GMT</pubDate>
+  <media:content url="https://quarto.nathancashion.com/media/BooksDoFurnishLifeDawkins_dark.png" medium="image" type="image/png" height="81" width="144"/>
+</item>
 <item>
   <title>Autistics are disparaged Buddhists</title>
   <dc:creator>Nathan Cashion</dc:creator>
@@ -262,10 +300,8 @@ O’Bryan, Steven J., Annabel Critchlow, Cas J. Fuchs, Danielle Hiam, and Séver
 <p>I wrote my <a href="../advancing-msk-telemedicine">master’s capstone paper</a> on what things telemedicine providers could learn from video game live streamers and YouTubers.</p>
 <p>I reviewed a couple hundred articles, but couldn’t find anyone making the same suggestions I was exploring, especially the idea of simulated eye contact by looking directly at the camera lens. I began to feel a lot of doubt, worrying that my idea was too niche, technical, or obscure to be considered in healthcare (as many of my ideas are!).</p>
 <p>It was pretty validating that, less than a month after I submitted my capstone project, this article was published in JAMA.</p>
-<p><span class="citation" data-cites="hirschtrittFourTipsImproving2024">Hirschtritt and Kelly (2024)</span> highlight the concept of <em>augmented gaze</em>—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming. But the technique is much, much older than that… It has been practiced by on-screen professionals (e.g.&nbsp;news anchors) for decades.</p>
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/33671002@N00/8246736532/" title="1987-08-Aug-SierraBlueCards_0035"><img src="https://live.staticflickr.com/8350/8246736532_d7afd5df33_z.jpg" alt="1987-08-Aug-SierraBlueCards_0035" width="640" height="433"></a></p>
-<script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<p><em>An historical image of Tom Brokaw demonstrates the augmented gaze in 1987.</em></p>
+<p><span class="citation" data-cites="hirschtrittFourTipsImproving2024">Hirschtritt and Kelly (2024)</span> highlight the concept of <strong><em>augmented gaze</em></strong>—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming. But the technique is much, much older than that… It has been practiced by on-screen professionals (e.g.&nbsp;news anchors) for decades.</p>
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/33671002@N00/8246736532/" title="An historical image of Tom Brokaw demonstrates the augmented gaze in 1987."><img src="https://live.staticflickr.com/8350/8246736532_d7afd5df33_z.jpg" alt="1987-08-Aug-SierraBlueCards_0035" width="640" height="433"></a></p>
 <p>It can be awkward at first, but gets better with practice. Using a teleprompter to display the incoming video right in front of the lens can make this feel much more natural.</p>
 
 

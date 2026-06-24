@@ -5,7 +5,7 @@
   "renderCitations": true,
   "renderCitationsReadingMode": true,
   "renderLinkCitations": true,
-  "pathToBibliography": "/Users/nately/Development/Quarto_blog/references.bib",
+  "pathToBibliography": "/Users/nately/Development/Quarto_blog/bibliography/zotero.bib",
   "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl",
   "enableCiteKeyCompletion": true,
   "showCitekeyTooltips": true

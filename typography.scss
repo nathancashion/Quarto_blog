@@ -1,0 +1,124 @@
+/*-- scss:defaults --*/
+
+// Fonts: General Sans for headings/UI, Source Serif 4 for body prose
+$font-family-sans-serif: "General Sans", "Inter", -apple-system, BlinkMacSystemFont, sans-serif !default;
+$font-family-serif: "Source Serif 4", "Times New Roman", serif !default;
+$font-family-mono: "Red Hat Mono", monospace !default;
+
+// Use serif for both body and headings
+$font-family-base: $font-family-sans-serif !default;
+$headings-font-family: $font-family-sans-serif !default;
+
+// Font sizes
+$font-size-root: 1.3rem !default;
+// Article headings (reduced by 0.5rem)
+$h1-font-size: 1.75rem !default;
+$h2-font-size: 1.25rem !default;
+$h3-font-size: 1.1rem !default;
+$h4-font-size: 1.0rem !default;
+$h5-font-size: 0.95rem !default;
+
+// Body text readability
+$line-height-base: 1.7 !default;
+$paragraph-margin-bottom: 1.25rem !default;
+
+// Body font weight — lighter for a softer feel
+$font-weight-base: 300 !default;
+
+// Heading weights and spacing
+$headings-font-weight: 600 !default;
+$headings-line-height: 1.3 !default;
+$headings-margin-bottom: 0.6em !default;
+
+/*-- scss:rules --*/
+
+// Load fonts from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,300;1,8..60,400;1,8..60,500&display=swap');
+
+@import url('https://fonts.cdnfonts.com/css/general-sans');   
+
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:ital,wght@0,300..700;1,300..700&display=swap');
+
+// Heading styles
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.5em;
+}
+
+// Article page title — lighter weight
+.quarto-title-block h1.title,
+#title-block-header h1 {
+  font-weight: 600;
+}
+
+// First heading after title block shouldn't have extra top margin
+.quarto-title + section > h2:first-child,
+#title-block-header + section > h2:first-child {
+  margin-top: 0.75em;
+}
+
+// Force body to use sans serif
+p {
+  font-family: $font-family-base;
+  letter-spacing: 0.02rem;
+}
+
+// Navbar and UI elements use sans-serif
+.navbar, .nav-footer, .sidebar, .toc {
+  font-family: $font-family-sans-serif; 
+}
+
+// Captions, metadata, dates use sans-serif 
+.figure-caption, figcaption,
+.quarto-title-meta, .quarto-categories, .listing-category,
+.listing-date, .listing-author,
+.article-date, .article-author {
+  font-family: $font-family-sans-serif;
+  font-size: 0.875rem;
+}
+
+// Blockquotes
+blockquote p {
+  font-family: $font-family-serif;
+  font-style: normal;
+}
+
+// Code blocks use monospace (already default), but ensure
+// surrounding prose elements stay serif
+.cell-output, .sourceCode {
+  font-family: $font-family-mono;
+  font-size: 0.875rem;
+}
+
+// Listing titles
+.quarto-listing .listing-title,
+.quarto-listing h2,
+.quarto-listing h3 {
+  font-size: 1.35rem;
+}
+
+.quarto-listing .listing-description {
+  font-size: 1.0rem;
+}
+
+.quarto-listing .listing-categories {
+  margin-top: 0.4em;
+}
+
+// Consistent spacing in listing
+.quarto-listing .list-group-item {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+.quarto-listing .thumbnail {
+  overflow: hidden;
+  max-height: 200px;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
+
+.quarto-listing .thumbnail-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

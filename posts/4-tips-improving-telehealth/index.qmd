@@ -41,14 +41,8 @@ I reviewed a couple hundred articles, but couldn't find anyone making the same s
 
 It was pretty validating that, less than a month after I submitted my capstone project, this article was published in JAMA.
 
-@hirschtrittFourTipsImproving2024 highlight the concept of *augmented gaze*—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming. But the technique is much, much older than that… It has been practiced by on-screen professionals (e.g. news anchors) for decades.
+@hirschtrittFourTipsImproving2024 highlight the concept of ***augmented gaze***—looking directly into the camera lens to simulate eye contact, instead of looking at the computer screen—stating that this technique was introduced by online gaming. But the technique is much, much older than that… It has been practiced by on-screen professionals (e.g. news anchors) for decades.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/33671002@N00/8246736532/" title="1987-08-Aug-SierraBlueCards_0035"><img src="https://live.staticflickr.com/8350/8246736532_d7afd5df33_z.jpg" alt="1987-08-Aug-SierraBlueCards_0035" width="640" height="433"/></a>
-
-```{=html}
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-```
-
-*An historical image of Tom Brokaw demonstrates the augmented gaze in 1987.*
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/33671002@N00/8246736532/" title="An historical image of Tom Brokaw demonstrates the augmented gaze in 1987."><img src="https://live.staticflickr.com/8350/8246736532_d7afd5df33_z.jpg" alt="1987-08-Aug-SierraBlueCards_0035" width="640" height="433"/></a>
 
 It can be awkward at first, but gets better with practice. Using a teleprompter to display the incoming video right in front of the lens can make this feel much more natural.
