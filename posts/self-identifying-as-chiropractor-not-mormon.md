@@ -3,13 +3,11 @@ title: Self-identifying as a chiropractor but not a Mormon
 alias: chiro-not-mormon
 date: 2026-06-23
 date-modified: "2026-06-23 15:56"
-description: "I converted to Mormonism as a teenager and left the church after graduating from BYU. I practiced as a chiropractor for a little over one year, but I still consider myself a chiropractor."
+description: I converted to Mormonism as a teenager and left the church after graduating from BYU. I practiced as a chiropractor for a little over one year, but I still consider myself a chiropractor.
 author: 
   - name: Nathan Cashion
     url: https://www.nathancashion.com
 draft: false
-status: published
-freeze: true
 URL: 
 categories:
   - Science
@@ -31,4 +29,4 @@ To be a Mormon, [you must believe](https://youtu.be/GVJgmp2Tc2s?si=aFfmq5az9i06t
 
 To be a chiropractor does not require belief... al least, not anymore.
 
-![Quote from Richard Dawkins](/media/BooksDoFurnishLifeDawkins_dark.png)
+![*Quote from Richard Dawkins*](/media/BooksDoFurnishLifeDawkins_dark.png)
