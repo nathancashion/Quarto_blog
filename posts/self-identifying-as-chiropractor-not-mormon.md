@@ -3,7 +3,7 @@ title: Self-identifying as a chiropractor but not a Mormon
 alias: chiro-not-mormon
 date: 2026-06-23
 date-modified: "2026-06-23 15:56"
-description: I converted to Mormonism as a teenager and left the church after graduating from BYU. I practiced as a chiropractor for a little over one year, but I still consider myself a chiropractor.
+description: I converted to Mormonism as a teenager and left the church after graduating from BYU. I practiced as a chiropractor for a little over one year. I've all but abandoned patient care, but I still consider myself a chiropractor.
 author: 
   - name: Nathan Cashion
     url: https://www.nathancashion.com

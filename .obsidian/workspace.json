@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f0a6e27af74f80",
+        "id": "911d78a28ab923b4",
         "type": "tabs",
         "children": [
           {
-            "id": "1673cb723fcd7103",
+            "id": "2f1ddc2ed7f475d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/self-identifying-as-chiropractor-not-mormon.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "self-identifying-as-chiropractor-not-mormon"
+              "title": "New tab"
             }
           }
         ]
@@ -180,19 +176,19 @@
       "qmd-as-md-obsidian:Render Quarto to PDF": false
     }
   },
-  "active": "1673cb723fcd7103",
+  "active": "2f1ddc2ed7f475d4",
   "lastOpenFiles": [
+    "posts/self-identifying-as-chiropractor-not-mormon.md",
+    "_site/index.feed-full-staged",
+    "_site/index-listing.json",
     "about.html",
     "about_files/mediabag",
     "about_files",
-    "posts/4-tips-improving-telehealth/index_files/mediabag",
-    "posts/4-tips-improving-telehealth/index_files",
-    "_site/index.feed-full-staged",
-    "_site/index-listing.json",
+    "index-listing.json",
+    "index.feed-full-staged",
     "site_libs/quarto-listing/quarto-listing.js",
     "site_libs/quarto-listing/list.min.js",
     "site_libs/quarto-listing",
-    "index.html",
     "posts/4-tips-improving-telehealth/4TipsImprovingTelehealthPatientClinicianCommunication_NY_WIDEslide-6 copy.png",
     "_site/media/jawws.jpg",
     "_site/media/banner_uzh_back-and-neck_2025.jpg",
@@ -203,7 +199,6 @@
     "_site/media/BooksDoFurnishLifeDawkins_dark.png",
     "_site/media/Abbreviations_SenseOfStyle.png",
     "_site/media/Abbreviations_HowToWriteALot.png",
-    "posts/self-identifying-as-chiropractor-not-mormon.md",
     "_templates/Simple Blog Template.md",
     "Books Do Furnish a Life.md",
     "posts/littlefoot-test.md",
