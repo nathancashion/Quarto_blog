@@ -10,6 +10,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/nathancashion
+    - icon: mortarboard-fill
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Nathan-Cashion?ev=hdr_xprf
     - icon: mortarboard
       text: ORCID
       href: https://orcid.org/0000-0001-7987-367X
